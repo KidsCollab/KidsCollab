@@ -1,9 +1,12 @@
 ---
-draft: false
+comments: true
+draft: true
 tags:
-title: Templates
+  - FolderNote
+title: Super Smash Bros
 ---
 %% Begin Waypoint %%
+
 - [[Super Smash Bros Ultimate Tactics]]
 
 %% End Waypoint %%

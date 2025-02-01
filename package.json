@@ -109,6 +109,8 @@
     "@types/yargs": "^17.0.33",
     "esbuild": "^0.24.2",
     "prettier": "^3.4.2",
+    "sass": "^1.83.4",
+    "sass-loader": "^16.0.4",
     "tsx": "^4.19.2",
     "typescript": "^5.7.2"
   }

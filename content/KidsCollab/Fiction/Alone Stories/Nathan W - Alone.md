@@ -1,0 +1,15 @@
+---
+comments: true
+title: Nathan W - Alone
+draft: false
+tags:
+  - NathanW
+---
+
+The voice over the loudspeaker interrupted my nervous thoughts. “Ladies and gentlemen, this train terminates at Park Lane. It will be our last stop.” I looked at my watch – 2:43am. Swinging my bag over shoulder, I stood in front of the glass doors, waiting for them to open. The train halts with a loud hiss, and I let go of the pole, wishing the metal wasn’t such an uninviting surface. The strangers on the train join me as we walk on the clean tiled station. Too clean. Too quiet. I force myself to listen to our synchronised footsteps, and I give a start every time someone leaves. A cleaner. Disappearing down an alley. A nurse. Down the escalator. A businessman. Into the lift. And then . . .
+
+Me. Just me. Me and my footsteps that alone echo eerily down into the empty hall. I am relieved when I see the immaculate tiles come to an end until I look up. Nightmares run wild in this place. Shadows. Overpowering the light. Climbing up building walls, leaping into the night, and pouring back like liquid onto the ground. My hands turn white clenching my bag. I lean down, yes, my initials. Carved into the concrete. My stride increases, pumped – and then screeches to a stop. My initials meant I still had ten blocks to go. Ten more blocks of the shadows lurking, waiting to catch me.
+
+One step at a time, my brain chides. And I do. For a while. Steadily but slow. Then a muffled crash makes me whip my head towards a tree. Just a squirrel, I think to myself. Just a squirrel. Just a squirrel. This becomes my mantra every time I hear an unidentifiable noise. But then I realise – Squirrels don’t live in Australia.
+
+Emergency sirens immediately conquer and drown any rational thought and I mentally kick myself inside for my annoying logic. Relaxation isn’t going to help me, I realise.  I have to do this on adrenaline alone. A splash of murky gutter water makes my eyes dart around. I reach the second street light. The circles of the lights look like helicopter lights. Like being hunted. I look around fearfully. Not hunted – never again. I try to calm my thoughts Mum. Dad. Grandma. Grandad. This spurs me on until I realise it is silent. What if they left? What is they forgot me? Then I realise there is only one way to find out. Only one way to make these goose bumps disappear. Or make them as big as mountains. I feel a drop of water on my shoulder and immediately flit back to darkness. It’s like fire and ice on the back of my neck, goose bumps and buckets of sweat wreaking havoc. Silhouettes in the bakery scare me half to death and my pulse threatens to burst out of my chest. I sink slowly to the pavement on the ground, overwhelmed, when I am struck by a familiar sight. Home. Soft moonlight washes over me, cleanses my fear and as I bask in the glow, I get a closer look at my street. I see a dog and its walker, splashing in puddles and jumping at trees. I see the silhouette clearer, the faces of friendly, jovial Mr Peters in the window of the bakery. I am proud until I look at my watch. 7am. It took me 4 hours to walk 10 blocks.

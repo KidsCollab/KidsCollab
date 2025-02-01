@@ -30,28 +30,28 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#f4efe4", // Clean and very light blue-gray for the page background
-          lightgray: "#ddd5c2", // Softer light blue for borders and subtle accents
-          gray: "#b3ab9a", // Muted gray-blue for links and heavier borders
-          darkgray: "#545351", // Brighter, readable gray for body text
-          dark: "#1C1F26", // Deep charcoal for headings and important text
-          secondary: "#dd7f2a", // Rich blue for links and current section highlights
-          tertiary: "#1887bf", // Warm orange for hover states and call-to-action highlights
-          highlight: "rgba(255, 167, 38, 0.15)", // Light blue overlay for highlighting
-          textHighlight: "#F59E0B", // Vibrant orange for highlighted text backgrounds
+          light: "#f4f8fb", // Soft and airy light blue-gray for page background
+          lightgray: "#e0e6f9", // Subtle blue-gray for borders, keeping the theme light and airy
+          gray: "#8fa6c1", // Muted slate blue for links and heavier borders, still cohesive
+          darkgray: "#4b5d70", // A softer, neutral gray for readable body text
+          dark: "#172c3b", // Deep blue-gray for headings and important text, providing contrast
+          secondary: "#0077b6", // Strong blue for links and active elements, keeping it vibrant
+          tertiary: "#ff8c00", // Warm, subtle orange for hover states, calls to action, and highlights
+          highlight: "rgba(0, 119, 182, 0.3)", // Light blue highlight for internal link background and highlighted areas
+          textHighlight: "#ffb84d", // Softer orange-yellow for markdown highlighted text backgrounds
         },
         darkMode: {
-          light: "#0F172A", // Deep navy for the page background
-          lightgray: "#1E293B", // Muted blue-gray for borders
-          gray: "#475569", // Subtle gray-blue for less prominent text
-          darkgray: "#94A3B8", // Softer light blue for readable body text
-          dark: "#E2E8F0", // Off-white for headings and prominent text
-          secondary: "#3B82F6", // Bright blue for links and active elements
-          tertiary: "#F59E0B", // Soft amber for hover states and highlights
-          highlight: "rgba(59, 130, 246, 0.15)", // Light blue for hover backgrounds
-          textHighlight: "#FACC15", // Brighter yellow for highlighted text
+          light: "#121d2b", // Dark navy blue for page background to keep things sleek and professional
+          lightgray: "#2c3e5c", // Muted dark blue-gray for borders, contrasting well with dark background
+          gray: "#64748b", // Subtle gray-blue for body text and less prominent links
+          darkgray: "#a0b1ca", // Softer gray-blue for readable body text, perfect for dark mode
+          dark: "#e0e6f1", // Light off-white for headings, keeping it easy on the eyes in dark mode
+          secondary: "#3b82f6", // Lively blue for links and current section highlights in dark mode
+          tertiary: "#ffb84d", // Soft amber orange for hover states and highlights, giving warmth
+          highlight: "rgba(59, 130, 246, 0.4)", // More prominent blue highlight for link backgrounds and hover states
+          textHighlight: "#fdbb2d", // Bright yellow-orange for markdown highlighted text in dark mode
         },
-      },
+      },     
     },
   },
   plugins: {

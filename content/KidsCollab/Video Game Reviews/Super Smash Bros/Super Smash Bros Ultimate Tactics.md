@@ -1,4 +1,10 @@
-By Nathan W
+---
+comments: true
+title: Super Smash Bros Ultimate Tactics
+draft: false
+tags:
+    - NathanW
+---
 
 Here are some of the best characters to play in Super Smash Bros, ranked in terms of power and easiness.
 
@@ -30,7 +36,7 @@ Cloud has a very high damage output, able to trap opponents in cycles using move
 
 Villager is a highly recommended character, with high attack and excellent speed. It can jump high and has the handy ability to be able to pick up and store items for later. One major drawback to this fighter is that it needs lots of skill to utilise it to its full potential. It's way too OP for a fighter from Animal Crossing.
 
- 3. Bowser
+3. Bowser
 
 Bowser is both literally and figuratively a beast. It has easy controls and has game-changing attacks with a single swipe. It has a great ability to strike the opponent over and over again without chance of retaliation, and his Final Smash is aimed. One thing that limits Bowser's abilities is that it is slow and cannot jump well.
 

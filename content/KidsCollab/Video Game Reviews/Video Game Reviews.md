@@ -1,9 +1,12 @@
 ---
-draft: false
+comments: true
+draft: true
 tags:
-title: Templates
+  - FolderNote
+title: Video Game Reviews
 ---
 %% Begin Waypoint %%
+
 - **[[Super Smash Bros]]**
 
 %% End Waypoint %%
