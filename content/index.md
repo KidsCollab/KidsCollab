@@ -1,13 +1,10 @@
 ---
 comments: true
-title: Welcome to KidsCollab Gamma!
+title: Welcome to KidsCollab!
 draft: false
 tags: KidsCollab
 author:
 ---
  
-This is KidsCollab Gamma
 
-Please view the stable version at
-
-[KidsCollab](https://sites.google.com/view/kidscollab)
+[KidsCollab Google Sites](https://sites.google.com/view/kidscollab)
