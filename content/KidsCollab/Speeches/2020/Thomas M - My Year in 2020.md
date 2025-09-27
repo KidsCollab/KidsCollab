@@ -3,9 +3,12 @@ comments: true
 title: Thomas M - My Year in 2020
 draft: false
 tags: [ThomasM, KidsCollab/Speeches]
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
- 
-Everybody was excited for the start of a new year, a new decade, and a new opportunity for life. As well as a year without the severe bushfires ravaging rural town houses (this wish was immediately destroyed and thrown out the window). If this crazy beginning was not enough, some floods, a major drought and a virus that spread globally, tragically taking loved ones from families, eventually causing havoc in the toilet paper isles across Australia, topped off the unusual beginning to the year. This ‘different’ year will surely go down in the history book of odd years. This short summary will fill you in on all of the details (including the impossible fine print).  
+
+
+Everybody was excited for the start of a new year, a new decade, and a new opportunity for life. As well as a year without the severe bushfires ravaging rural town houses (this wish was immediately destroyed and thrown out the window). If this crazy beginning was not enough, some floods, a major drought and a virus that spread globally, tragically taking loved ones from families, eventually causing havoc in the toilet paper isles across Australia, topped off the unusual beginning to the year. This ‘different’ year will surely go down in the history book of odd years. This short summary will fill you in on all of the details (including the impossible fine print).
 
 While the bushfires were off and scorching the eastern states, my family and I were fortunate enough to be able to head up the coast to Nelson Bay. A week of snorkelling and body boarding at the beach highly appealed to all of us, so we packed our bags and headed for the coast being very careful not to forget the sneaky lolly jar. The highlight was the snorkelling trip out to Broughton Island where we swam with some colourful coral that had not been bleached, exotic marine species (such as wobbegong sharks) and walked through an amazing cave. Three of my favourite species of marine life that I spotted snorkelling at Fly Point was a stonefish, a few large pufferfish, as well as different species of stingrays like the shovelnose ray. An extremely rare creature that is only seen in northern parts of Australia (which makes me wonder what it was doing in NSW).
 

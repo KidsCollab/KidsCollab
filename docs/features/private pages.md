@@ -1,12 +1,14 @@
 ---
-title: Private Pages
+title: private pages
 tags:
   - feature/filter
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:23 pm
 ---
 
 There may be some notes you want to avoid publishing as a website. Quartz supports this through two mechanisms which can be used in conjunction:
 
-## Filter Plugins
+# Filter Plugins
 
 [[making plugins#Filters|Filter plugins]] are plugins that filter out content based off of certain criteria. By default, Quartz uses the [[RemoveDrafts]] plugin which filters out any note that has `draft: true` in the frontmatter.
 
@@ -17,7 +19,7 @@ If you'd like to only publish a select number of notes, you can instead use [[Ex
 >
 > `"!(PublicMedia)**/!(*.md)", "!(*.md)"`
 
-## `ignorePatterns`
+# `ignorePatterns`
 
 This is a field in `quartz.config.ts` under the main [[configuration]] which allows you to specify a list of patterns to effectively exclude from parsing all together. Any valid [fast-glob](https://github.com/mrmlnc/fast-glob#pattern-syntax) pattern works here.
 
@@ -28,7 +30,7 @@ Common examples include:
 
 - `some/folder`: exclude the entire of `some/folder`
 - `*.md`: exclude all files with a `.md` extension
-- `!*.md` exclude all files that _don't_ have a `.md` extension
+- `!*.md` exclude all files that *don't* have a `.md` extension
 - `**/private`: exclude any files or folders named `private` at any level of nesting
 
 > [!warning]

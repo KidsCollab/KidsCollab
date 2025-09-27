@@ -1,5 +1,7 @@
 ---
-title: Making your own plugins
+title: making plugins
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:24 pm
 ---
 
 > [!warning]
@@ -30,7 +32,7 @@ The following sections will go into detail for what methods can be implemented f
   - `css`: a list of CSS style definitions that should be loaded. A CSS style is described with the `CSSResource` type which is also defined in `quartz/resources.tsx`. It accepts either a source URL or the inline content of the stylesheet.
   - `js`: a list of scripts that should be loaded. A script is described with the `JSResource` type which is also defined in `quartz/resources.tsx`. It allows you to define a load time (either before or after the DOM has been loaded), whether it should be a module, and either the source URL or the inline content of the script.
 
-## Transformers
+# Transformers
 
 Transformers **map** over content, taking a Markdown file and outputting modified content or adding metadata to the file itself.
 
@@ -46,7 +48,7 @@ export type QuartzTransformerPluginInstance = {
 
 All transformer plugins must define at least a `name` field to register the plugin and a few optional functions that allow you to hook into various parts of transforming a single Markdown file.
 
-- `textTransform` performs a text-to-text transformation _before_ a file is parsed into the [Markdown AST](https://github.com/syntax-tree/mdast).
+- `textTransform` performs a text-to-text transformation *before* a file is parsed into the [Markdown AST](https://github.com/syntax-tree/mdast).
 - `markdownPlugins` defines a list of [remark plugins](https://github.com/remarkjs/remark/blob/main/doc/plugins.md). `remark` is a tool that transforms Markdown to Markdown in a structured way.
 - `htmlPlugins` defines a list of [rehype plugins](https://github.com/rehypejs/rehype/blob/main/doc/plugins.md). Similar to how `remark` works, `rehype` is a tool that transforms HTML to HTML in a structured way.
 - `externalResources` defines any external resources the plugin may need to load on the client-side for it to work properly.
@@ -179,7 +181,7 @@ All transformer plugins can be found under `quartz/plugins/transformers`. If you
 
 A parting word: transformer plugins are quite complex so don't worry if you don't get them right away. Take a look at the built in transformers and see how they operate over content to get a better sense for how to accomplish what you are trying to do.
 
-## Filters
+# Filters
 
 Filters **filter** content, taking the output of all the transformers and determining what files to actually keep and what to discard.
 
@@ -211,7 +213,7 @@ export const RemoveDrafts: QuartzFilterPlugin<{}> = () => ({
 })
 ```
 
-## Emitters
+# Emitters
 
 Emitters **reduce** over content, taking in a list of all the transformed and filtered content and creating output files.
 

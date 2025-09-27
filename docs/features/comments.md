@@ -1,7 +1,9 @@
 ---
-title: Comments
+title: comments
 tags:
   - component
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:24 pm
 ---
 
 Quartz also has the ability to hook into various providers to enable readers to leave comments on your site.
@@ -10,9 +12,9 @@ Quartz also has the ability to hook into various providers to enable readers to 
 
 As of today, only [Giscus](https://giscus.app/) is supported out of the box but PRs to support other providers are welcome!
 
-## Providers
+# Providers
 
-### Giscus
+## Giscus
 
 First, make sure that the [[setting up your GitHub repository|GitHub]] repository you are using for your Quartz meets the following requirements:
 
@@ -50,7 +52,7 @@ afterBody: [
 ],
 ```
 
-### Customization
+## Customization
 
 Quartz also exposes a few of the other Giscus options as well and you can provide them the same way `repo`, `repoId`, `category`, and `categoryId` are provided.
 
@@ -94,7 +96,7 @@ type Options = {
 }
 ```
 
-#### Custom CSS theme
+### Custom CSS Theme
 
 Quartz supports custom theme for Giscus. To use a custom CSS theme, place the `.css` file inside the `quartz/static` folder and set the configuration values.
 
@@ -115,7 +117,7 @@ afterBody: [
 ],
 ```
 
-#### Conditionally display comments
+### Conditionally Display Comments
 
 Quartz can conditionally display the comment box based on a field `comments` in the frontmatter. By default, all pages will display comments, to disable it for a specific page, set `comments` to `false`.
 

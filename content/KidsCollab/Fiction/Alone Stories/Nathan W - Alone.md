@@ -3,6 +3,8 @@ comments: true
 title: Nathan W - Alone
 draft: false
 tags: [NathanW, KidsCollab/Fiction]
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
 
 The voice over the loudspeaker interrupted my nervous thoughts. “Ladies and gentlemen, this train terminates at Park Lane. It will be our last stop.” I looked at my watch – 2:43am. Swinging my bag over shoulder, I stood in front of the glass doors, waiting for them to open. The train halts with a loud hiss, and I let go of the pole, wishing the metal wasn’t such an uninviting surface. The strangers on the train join me as we walk on the clean tiled station. Too clean. Too quiet. I force myself to listen to our synchronised footsteps, and I give a start every time someone leaves. A cleaner. Disappearing down an alley. A nurse. Down the escalator. A businessman. Into the lift. And then . . .

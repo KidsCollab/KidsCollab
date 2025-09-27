@@ -1,11 +1,13 @@
 ---
-title: Recent Notes
+title: recent notes
 tags: component
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:23 pm
 ---
 
 Quartz can generate a list of recent notes based on some filtering and sorting criteria. Though this component isn't included in any [[layout]] by default, you can add it by using `Component.RecentNotes` in `quartz.layout.ts`.
 
-## Customization
+# Customization
 
 - Changing the title from "Recent notes": pass in an additional parameter to `Component.RecentNotes({ title: "Recent writing" })`
 - Changing the number of recent notes: pass in an additional parameter to `Component.RecentNotes({ limit: 5 })`

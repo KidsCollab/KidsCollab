@@ -3,6 +3,8 @@ comments: true
 title: The Zodiac Race - A Drama Script
 draft: false
 tags: [NathanW, ChristianC, DillonT, AlexC, NicholasL, KidsCollab/Fiction]
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
 
 Characters:
@@ -236,6 +238,7 @@ Dog: The thing is, my master was the pig!
 (Dog prods pig, to try to get it to wake up)
 
 Dog: I had to keep waking my master up, and walking by its side to the
+
 very end!
 
 (pig falls over again, dog wakes up again. Repeat as they move through mountains)

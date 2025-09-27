@@ -1,5 +1,7 @@
 ---
-title: Creating your own Quartz components
+title: creating components
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:24 pm
 ---
 
 > [!warning]
@@ -20,9 +22,9 @@ However, HTML doesn't let you create reusable templates. If you wanted to create
 
 In effect, components allow you to write a JavaScript function that takes some data and produces HTML as an output. **While Quartz doesn't use React, it uses the same component concept to allow you to easily express layout templates in your Quartz site.**
 
-## An Example Component
+# An Example Component
 
-### Constructor
+## Constructor
 
 Component files are written in `.tsx` files that live in the `quartz/components` folder. These are re-exported in `quartz/components/index.ts` so you can use them in layouts and other components more easily.
 
@@ -53,7 +55,7 @@ export default ((userOpts?: Options) => {
 }) satisfies QuartzComponentConstructor
 ```
 
-### Props
+## Props
 
 The Quartz component itself (lines 11-17 highlighted above) looks like a React component. It takes in properties (sometimes called [props](https://react.dev/learn/passing-props-to-a-component)) and returns JSX.
 
@@ -78,7 +80,7 @@ export type QuartzComponentProps = {
 - `allFiles`: Metadata for all files that have been parsed. Useful for doing page listings or figuring out the overall site structure.
 - `displayClass`: a utility class that indicates a preference from the user about how to render it in a mobile or desktop setting. Helpful if you want to conditionally hide a component on mobile or desktop.
 
-### Styling
+## Styling
 
 Quartz components can also define a `.css` property on the actual function component which will get picked up by Quartz. This is expected to be a CSS string which can either be inlined or imported from a `.scss` file.
 
@@ -117,9 +119,9 @@ export default (() => {
 ```
 
 > [!warning]
-> Quartz does not use CSS modules so any styles you declare here apply _globally_. If you only want it to apply to your component, make sure you use specific class names and selectors.
+> Quartz does not use CSS modules so any styles you declare here apply *globally*. If you only want it to apply to your component, make sure you use specific class names and selectors.
 
-### Scripts and Interactivity
+## Scripts and Interactivity
 
 What about interactivity? Suppose you want to add an-click handler for example. Like the `.css` property on the component, you can also declare `.beforeDOMLoaded` and `.afterDOMLoaded` properties that are strings that contain the script.
 
@@ -145,11 +147,11 @@ export default (() => {
 > [!hint]
 > For those coming from React, Quartz components are different from React components in that it only uses JSX for templating and layout. Hooks like `useEffect`, `useState`, etc. are not rendered and other properties that accept functions like `onClick` handlers will not work. Instead, do it using a regular JS script that modifies the DOM element directly.
 
-As the names suggest, the `.beforeDOMLoaded` scripts are executed _before_ the page is done loading so it doesn't have access to any elements on the page. This is mostly used to prefetch any critical data.
+As the names suggest, the `.beforeDOMLoaded` scripts are executed *before* the page is done loading so it doesn't have access to any elements on the page. This is mostly used to prefetch any critical data.
 
 The `.afterDOMLoaded` script executes once the page has been completely loaded. This is a good place to setup anything that should last for the duration of a site visit (e.g. getting something saved from local storage).
 
-If you need to create an `afterDOMLoaded` script that depends on _page specific_ elements that may change when navigating to a new page, you can listen for the `"nav"` event that gets fired whenever a page loads (which may happen on navigation if [[SPA Routing]] is enabled).
+If you need to create an `afterDOMLoaded` script that depends on *page specific* elements that may change when navigating to a new page, you can listen for the `"nav"` event that gets fired whenever a page loads (which may happen on navigation if [[SPA Routing]] is enabled).
 
 ```ts
 document.addEventListener("nav", () => {
@@ -162,9 +164,10 @@ document.addEventListener("nav", () => {
 ```
 
 It is best practice to track any event handlers via `window.addCleanup` to prevent memory leaks.
+
 This will get called on page navigation.
 
-#### Importing Code
+### Importing Code
 
 Of course, it isn't always practical (nor desired!) to write your code as a string literal in the component.
 
@@ -196,7 +199,7 @@ document.getElementById("btn").onclick = () => {
 
 Additionally, like what is shown in the example above, you can import packages in `.inline.ts` files. This will be bundled by Quartz and included in the actual script.
 
-### Using a Component
+## Using a Component
 
 After creating your custom component, re-export it in `quartz/components/index.ts`:
 

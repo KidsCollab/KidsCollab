@@ -1,7 +1,9 @@
 ---
-title: "CreatedModifiedDate"
+title: CreatedModifiedDate
 tags:
   - plugin/transformer
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:22 pm
 ---
 
 This plugin determines the created, modified, and published dates for a document using three potential data sources: frontmatter metadata, Git history, and the filesystem. See [[authoring content#Syntax]] for more information.
@@ -18,7 +20,7 @@ This plugin accepts the following configuration options:
 >
 > Depending on how you [[hosting|host]] your Quartz, the `filesystem` dates of your local files may not match the final dates. In these cases, it may be better to use `git` or `frontmatter` to guarantee correct dates.
 
-## API
+# API
 
 - Category: Transformer
 - Function name: `Plugin.CreatedModifiedDate()`.

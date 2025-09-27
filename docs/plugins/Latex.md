@@ -1,7 +1,9 @@
 ---
-title: "Latex"
+title: Latex
 tags:
   - plugin/transformer
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:22 pm
 ---
 
 This plugin adds LaTeX support to Quartz. See [[features/Latex|Latex]] for more information.
@@ -18,7 +20,7 @@ This plugin accepts the following configuration options:
 >
 > Currently, typst doesn't support inline-math
 
-## API
+# API
 
 - Category: Transformer
 - Function name: `Plugin.Latex()`.

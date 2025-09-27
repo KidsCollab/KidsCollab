@@ -1,12 +1,14 @@
 ---
-title: Philosophy of Quartz
+title: philosophy
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:22 pm
 ---
 
-## A garden should be a true hypertext
+# A Garden Should Be a True Hypertext
 
 > The garden is the web as topology. Every walk through the garden creates new paths, new meanings, and when we add things to the garden we add them in a way that allows many future, unpredicted relationships.
 >
-> _(The Garden and the Stream)_
+> *(The Garden and the Stream)*
 
 The problem with the file cabinet is that it focuses on efficiency of access and interoperability rather than generativity and creativity. Thinking is not linear, nor is it hierarchical. In fact, not many things are linear or hierarchical at all. Then why is it that most tools and thinking strategies assume a nice chronological or hierarchical order for my thought processes?
 
@@ -18,7 +20,7 @@ Quartz embraces the inherent rhizomatic and web-like nature of our thinking and 
 
 ---
 
-## A garden should be shared
+# A Garden Should Be Shared
 
 The goal of digital gardening should be to tap into your network’s collective intelligence to create constructive feedback loops. If done well, I have a shareable representation of my thoughts that I can send out into the world and people can respond. Even for my most half-baked thoughts, this helps me create a feedback cycle to strengthen and fully flesh out that idea.
 
@@ -31,7 +33,7 @@ Quartz is designed first and foremost as a tool for publishing [digital gardens]
 
 ---
 
-## A garden should be your own
+# A Garden Should Be Your Own
 
 At its core, Quartz is designed to be easy to use enough for non-technical people to get going but also powerful enough that senior developers can tweak it to work how they'd like it to work.
 

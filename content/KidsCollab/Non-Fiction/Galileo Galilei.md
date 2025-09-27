@@ -3,6 +3,8 @@ title: Galileo Galilei
 draft: false
 tags: [NathanW, KidsCollab/Non-Fiction]
 comments: true
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
 
 Galileo Di Vincenzo Bonaulti de Galilei was an iconic Italian physicist and astronomer. Commonly known as a polymath, he was named father of observational astronomy, the father of modern physics, the father of scientific method and the father modern science. During his notable life( 15 February 1564 - 8 January 1642) he did many amazing things.
@@ -23,7 +25,7 @@ Galileo's works were banned by the church. Why? Well, Galileo studied heliocentr
 
 Sadly, Galileo's works were only published after he died. He has since been described as 'An audacious hero of research' and been acknowledged widely for his discovery of  Jupiter's 4 main moons and now has a NASA satellite named after him. In 2008, a statue was erected in his honour.  His inventions are now a main part of a medical kit and his discoveries are science 101.  Galileo Galilei is now remembered as the champion of physics and science.
 
-## Bibliography
+# Bibliography
 
 https://en.wikipedia.org/wiki/Galileo_Galilei
 

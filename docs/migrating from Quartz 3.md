@@ -1,5 +1,7 @@
 ---
-title: "Migrating from Quartz 3"
+title: migrating from Quartz 3
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:22 pm
 ---
 
 As you already have Quartz locally, you don't need to fork or clone it again. Simply just checkout the alpha branch, install the dependencies, and import your old vault.
@@ -21,16 +23,16 @@ git remote add upstream https://github.com/jackyzha0/quartz.git
 When running `npx quartz create`, you will be prompted as to how to initialize your content folder. Here, you can choose to import or link your previous content folder and Quartz should work just as you expect it to.
 
 > [!note]
-> If the existing content folder you'd like to use is at the _same_ path on a different branch, clone the repo again somewhere at a _different_ path in order to use it.
+> If the existing content folder you'd like to use is at the *same* path on a different branch, clone the repo again somewhere at a *different* path in order to use it.
 
-## Key changes
+# Key Changes
 
 1. **Removing Hugo and `hugo-obsidian`**: Hugo worked well for earlier versions of Quartz but it also made it hard for people outside of the Golang and Hugo communities to fully understand what Quartz was doing under the hood and be able to properly customize it to their needs. Quartz 4 now uses a Node-based static-site generation process which should lead to a much more helpful error messages and an overall smoother user experience.
 2. **Full-hot reload**: The many rough edges of how `hugo-obsidian` integrated with Hugo meant that watch mode didn't re-trigger `hugo-obsidian` to update the content index. This lead to a lot of weird cases where the watch mode output wasn't accurate. Quartz 4 now uses a cohesive parse, filter, and emit pipeline which gets run on every change so hot-reloads are always accurate.
 3. **Replacing Go template syntax with JSX**: Quartz 3 used [Go templates](https://pkg.go.dev/text/template) to create layouts for pages. However, the syntax isn't great for doing any sort of complex rendering (like [text processing](https://github.com/jackyzha0/quartz/blob/hugo/layouts/partials/textprocessing.html)) and it got very difficult to make any meaningful layout changes to Quartz 3. Quartz 4 uses an extension of JavaScript syntax called JSX which allows you to write layout code that looks like HTML in JavaScript which is significantly easier to understand and maintain.
 4. **A new extensible [[configuration]] and [[configuration#Plugins|plugin]] system**: Quartz 3 was hard to configure without technical knowledge of how Hugo's partials worked. Extensions were even hard to make. Quartz 4's configuration and plugin system is designed to be extended by users while making updating to new versions of Quartz easy.
 
-## Things to update
+# Things to Update
 
 - You will need to update your deploy scripts. See the [[hosting]] guide for more details.
 - Ensure that your default branch on GitHub is updated from `hugo` to `v4`.

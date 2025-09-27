@@ -3,6 +3,8 @@ comments: true
 title: Leo J - Alone
 draft: false
 tags: [LeoJ, KidsCollab/Fiction]
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
 
 The voice over the loud speaker interrupted my nervous thoughts. ‘Ladies and gentleman, this train terminates at Park Lane. It will be our last stop. I held on tightly as the train pulled up suddenly to the station. I look at my watch – 2:34 am. Swinging my bag over my shoulder, I stood in front of smooth double glass doors, glass door opens my, it makes my whole-body goose bumps.

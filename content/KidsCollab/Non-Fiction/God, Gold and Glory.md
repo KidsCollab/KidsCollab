@@ -3,6 +3,8 @@ title: God, Gold and Glory
 draft: false
 tags: [DillonT, XanderO, AmelieW, AtharvaG, KidsCollab/Non-Fiction]
 comments: true
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
 
 **Dillon**: (slowly) When the European explorers of the 1400s set out to conquer various parts of the world, they did so with three motives in mind:
@@ -37,7 +39,7 @@ Xander rides shotgun(will show better interactions)
 
 Atharva starts driving (turning hands-on ‘steering wheel’)
 
-**Dillon**: Come on guys, just turn the other cheek. Xander, If you want us to have better cars, maybe you can be charitable and buy us some Ferraris.  
+**Dillon**: Come on guys, just turn the other cheek. Xander, If you want us to have better cars, maybe you can be charitable and buy us some Ferraris.
 
 **Atharva**: Wow, you’ve changed, Dillon. Maybe, you could come on the quiz show I'm working on, it's a trivia show, and you get to pick the topic you are an expert at. So you can have the bible as your expert area.
 

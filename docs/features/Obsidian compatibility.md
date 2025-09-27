@@ -1,7 +1,9 @@
 ---
-title: "Obsidian Compatibility"
+title: Obsidian compatibility
 tags:
   - feature/transformer
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:23 pm
 ---
 
 Quartz was originally designed as a tool to publish Obsidian vaults as websites. Even as the scope of Quartz has widened over time, it hasn't lost the ability to seamlessly interoperate with Obsidian.
@@ -12,6 +14,6 @@ It also ships with support for [frontmatter parsing](https://help.obsidian.md/Ed
 
 Finally, Quartz also provides [[CrawlLinks]] plugin, which allows you to customize Quartz's link resolution behaviour to match Obsidian.
 
-## Configuration
+# Configuration
 
 This functionality is provided by the [[ObsidianFlavoredMarkdown]], [[Frontmatter]] and [[CrawlLinks]] plugins. See the plugin pages for customization options.

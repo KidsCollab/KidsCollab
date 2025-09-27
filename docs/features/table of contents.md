@@ -1,8 +1,10 @@
 ---
-title: "Table of Contents"
+title: table of contents
 tags:
   - component
   - feature/transformer
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:23 pm
 ---
 
 Quartz can automatically generate a table of contents (TOC) from a list of headings on each page. It will also show you your current scrolling position on the page by highlighting headings you've scrolled through with a different color.
@@ -11,7 +13,7 @@ You can hide the TOC on a page by adding `enableToc: false` to the frontmatter f
 
 By default, the TOC shows all headings from H1 (`# Title`) to H3 (`### Title`) and is only displayed if there is more than one heading on the page.
 
-## Customization
+# Customization
 
 The table of contents is a functionality of the [[TableOfContents]] plugin. See the plugin page for more customization options.
 

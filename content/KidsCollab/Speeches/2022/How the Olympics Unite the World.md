@@ -3,6 +3,8 @@ comments: true
 title: How the Olympics Unite the World
 draft: false
 tags: [SidneyL, KidsCollab/Speeches]
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
 
 The first thing that comes to mind at the time when you think about uniting the world inside of an existing event, is the Olympics. It happens every two years and unites the entire world that is going to have a sense of belonging for three weeks. The entire world unites with some that belong to the best athletes of the world representing the flag, culture, history, as well as beliefs that belong to the home country. The Olympics are about dedication, passion, unification, music, pain, stories, lives, as well as much more. The Olympics happen to be important to our world that is going to belong for several reasons.

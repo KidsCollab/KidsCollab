@@ -1,14 +1,16 @@
 ---
-title: "Breadcrumbs"
+title: breadcrumbs
 tags:
   - component
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:24 pm
 ---
 
 Breadcrumbs provide a way to navigate a hierarchy of pages within your site using a list of its parent folders.
 
 By default, the element at the very top of your page is the breadcrumb navigation bar (can also be seen at the top on this page!).
 
-## Customization
+# Customization
 
 Most configuration can be done by passing in options to `Component.Breadcrumbs()`.
 

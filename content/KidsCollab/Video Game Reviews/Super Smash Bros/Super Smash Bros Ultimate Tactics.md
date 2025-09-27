@@ -3,6 +3,8 @@ comments: true
 title: Super Smash Bros Ultimate Tactics
 draft: false
 tags: [NathanW, KidsCollab/Video-Game-Reviews]
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
 
 Here are some of the best characters to play in Super Smash Bros, ranked in terms of power and easiness.
@@ -18,7 +20,8 @@ Samus, hailing from Metroid, is another long-range fighter but it also has an ab
 8. Pokemon Trainer
 
 Pokemon Trainer is possibly the most versatile fighter in the game due to the ability to literally switch fighters. It has high damage and is able to land attack after attack as Ivysaur. The true powerhouse of the team may be Ivysaur, especially when in flat stages where falling off is impossible, such as Wii Fit Studio. A problem with this fighter, however, is that it cannot jump and recover as well as other fighters
-  
+
+
 7. Ken/Ryu
 
 An iconic duo, these two are the loudest on the field, with shouts of HADUKEN blasting out of the Switch. They have well-rounded attacks and are hard to both dodge and launch. Their recovery is also reliable and, to top it all off, their attacks just look plain cool.

@@ -1,7 +1,9 @@
 ---
-title: Syntax Highlighting
+title: syntax highlighting
 tags:
   - feature/transformer
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:23 pm
 ---
 
 Syntax highlighting in Quartz is completely done at build-time. This means that Quartz only ships pre-calculated CSS to highlight the right words so there is no heavy client-side bundle that does the syntax highlighting.
@@ -13,7 +15,7 @@ In short, it generates HTML that looks exactly like your code in an editor like 
 > [!warning]
 > Syntax highlighting does have an impact on build speed if you have a lot of code snippets in your notes.
 
-## Formatting
+# Formatting
 
 Text inside `backticks` on a line will be formatted like code.
 
@@ -39,7 +41,7 @@ export function trimPathSuffix(fp: string): string {
 }
 ```
 
-### Titles
+## Titles
 
 Add a file title to your code block, with text inside double quotes (`""`):
 
@@ -59,7 +61,7 @@ export function trimPathSuffix(fp: string): string {
 }
 ```
 
-### Line highlighting
+## Line Highlighting
 
 Place a numeric range inside `{}`.
 
@@ -79,7 +81,7 @@ export function trimPathSuffix(fp: string): string {
 }
 ```
 
-### Word highlighting
+## Word Highlighting
 
 A series of characters, like a literal regex.
 
@@ -95,7 +97,7 @@ const [age, setAge] = useState(50)
 const [name, setName] = useState("Taylor")
 ```
 
-### Inline Highlighting
+## Inline Highlighting
 
 Append {:lang} to the end of inline code to highlight it like a regular code block.
 
@@ -105,7 +107,7 @@ This is an array `[1, 2, 3]{:js}` of numbers 1 through 3.
 
 This is an array `[1, 2, 3]{:js}` of numbers 1 through 3.
 
-### Line numbers
+## Line Numbers
 
 Syntax highlighting has line numbers configured automatically. If you want to start line numbers at a specific number, use `showLineNumbers{number}`:
 
@@ -125,7 +127,7 @@ export function trimPathSuffix(fp: string): string {
 }
 ```
 
-### Escaping code blocks
+## Escaping Code Blocks
 
 You can format a codeblock inside of a codeblock by wrapping it with another level of backtick fences that has one more backtick than the previous fence.
 
@@ -138,6 +140,6 @@ const [name, setName] = useState('Taylor');
 ````
 `````
 
-## Customization
+# Customization
 
 Syntax highlighting is a functionality of the [[SyntaxHighlighting]] plugin. See the plugin page for customization options.

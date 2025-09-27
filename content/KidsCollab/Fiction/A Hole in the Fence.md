@@ -3,8 +3,11 @@ comments: true
 title: A Hole in the Fence
 draft: false
 tags: [AdamP, KidsCollab/Fiction]
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
- 
+
+
 Looking through the crack in the old, wooden fence, the boy watched horrendously as the lava slowly edged towards his property on the edge of Napoli. Vesuvius had erupted once more. It had been going on for the past two days, with chaos erupting all over Italy.  So far, only a field of pigs had been destroyed, but the outskirts were the greatest risk.
 
 Lava was bubbling on the 10 kilometre journey towards the big city. Napoli had a population of just over 2.5 million, and the experts reckoned 1.4 million of them were at risk. The boy’s house lay in a valley where lava travels on its way to the Mediterranean Sea. He edged his way into the run-down residence to pack his bags. ‘This, yes, that, no, and that, yess...’ he murmured hastily as he continuously packed his trunk for his way to London. His parents had owned the farm with pigs, and were not alive any more, but he had relatives in London who had moved away following the Nazi occupation in 1943.

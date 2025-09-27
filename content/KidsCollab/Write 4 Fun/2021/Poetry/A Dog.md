@@ -3,8 +3,10 @@ comments: true
 title: A Dog
 draft: false
 tags: [AryavvK, KidsCollab/Write4Fun]
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:41:16 pm
 ---
- 
+
 And there it was,
 
 sitting quietly in a pensive mood,

@@ -1,7 +1,9 @@
 ---
-title: "Explorer"
+title: explorer
 tags:
   - component
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:23 pm
 ---
 
 Quartz features an explorer that allows you to navigate all files and folders on your site. It supports nested folders and is highly customizable.
@@ -15,7 +17,7 @@ Display names for folders get determined by the `title` frontmatter field in `fo
 >
 > To clear/delete the explorer state from local storage, delete the `fileTree` entry (guide on how to delete a key from local storage in chromium based browsers can be found [here](https://docs.devolutions.net/kb/general-knowledge-base/clear-browser-local-storage/clear-chrome-local-storage/)). You can disable this by passing `useSavedState: false` as an argument.
 
-## Customization
+# Customization
 
 Most configuration can be done by passing in options to `Component.Explorer()`.
 
@@ -51,9 +53,10 @@ Want to customize it even more?
 - Style: `quartz/components/styles/explorer.scss`
 - Script: `quartz/components/scripts/explorer.inline.ts`
 
-## Advanced customization
+# Advanced Customization
 
 This component allows you to fully customize all of its behavior. You can pass a custom `sort`, `filter` and `map` function.
+
 All functions you can pass work with the `FileNode` class, which has the following properties:
 
 ```ts title="quartz/components/ExplorerNode.tsx" {2-5}
@@ -116,11 +119,11 @@ mapFn: (node: FileNode) => void
 > }
 > ```
 
-## Basic examples
+# Basic Examples
 
 These examples show the basic usage of `sort`, `map` and `filter`.
 
-### Use `sort` to put files first
+## Use `sort` to Put Files First
 
 Using this example, the explorer will alphabetically sort everything, but put all **files** above all **folders**.
 
@@ -139,7 +142,7 @@ Component.Explorer({
 })
 ```
 
-### Change display names (`map`)
+## Change Display Names (`map`)
 
 Using this example, the display names of all `FileNodes` (folders + files) will be converted to full upper case.
 
@@ -151,7 +154,7 @@ Component.Explorer({
 })
 ```
 
-### Remove list of elements (`filter`)
+## Remove List of Elements (`filter`)
 
 Using this example, you can remove elements from your explorer by providing an array of folders/files using the `omit` set.
 
@@ -167,7 +170,7 @@ Component.Explorer({
 
 You can customize this by changing the entries of the `omit` set. Simply add all folder or file names you want to remove.
 
-### Remove files by tag
+## Remove Files by Tag
 
 You can access the frontmatter of a file by `node.file?.frontmatter?`. This allows you to filter out files based on their frontmatter, for example by their tags.
 
@@ -180,7 +183,7 @@ Component.Explorer({
 })
 ```
 
-### Show every element in explorer
+## Show Every Element in Explorer
 
 To override the default filter function that removes the `tags` folder from the explorer, you can set the filter function to `undefined`.
 
@@ -190,7 +193,7 @@ Component.Explorer({
 })
 ```
 
-## Advanced examples
+# Advanced Examples
 
 > [!tip]
 > When writing more complicated functions, the `layout` file can start to look very cramped.
@@ -220,7 +223,7 @@ Component.Explorer({
 > })
 > ```
 
-### Add emoji prefix
+## Add Emoji Prefix
 
 To add emoji prefixes (📁 for folders, 📄 for files), you could use a map function like this:
 
@@ -240,7 +243,7 @@ Component.Explorer({
 })
 ```
 
-### Putting it all together
+## Putting it All together
 
 In this example, we're going to customize the explorer by using functions from examples above to [[#Add emoji prefix | add emoji prefixes]], [[#remove-list-of-elements-filter| filter out some folders]] and [[#use-sort-to-put-files-first | sort with files above folders]].
 
@@ -253,11 +256,11 @@ Component.Explorer({
 })
 ```
 
-Notice how we customized the `order` array here. This is done because the default order applies the `sort` function last. While this normally works well, it would cause unintended behavior here, since we changed the first characters of all display names. In our example, `sort` would be applied based off the emoji prefix instead of the first _real_ character.
+Notice how we customized the `order` array here. This is done because the default order applies the `sort` function last. While this normally works well, it would cause unintended behavior here, since we changed the first characters of all display names. In our example, `sort` would be applied based off the emoji prefix instead of the first *real* character.
 
 To fix this, we just changed around the order and apply the `sort` function before changing the display names in the `map` function.
 
-### Use `sort` with pre-defined sort order
+## Use `sort` with Pre-defined Sort order
 
 Here's another example where a map containing file/folder names (as slugs) is used to define the sort order of the explorer in quartz. All files/folders that aren't listed inside of `nameOrderMap` will appear at the top of that folders hierarchy level.
 

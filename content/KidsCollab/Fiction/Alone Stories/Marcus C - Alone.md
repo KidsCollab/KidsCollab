@@ -3,10 +3,15 @@ comments: true
 title: Marcus C - Alone
 draft: false
 tags: [MarcusC, KidsCollab/Fiction]
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
- 
+
+
 Alone
+
 By Marcus C
+
 The Voice over the loud speaker interrupted my nervous thoughts. “Ladies and Gentlemen the train terminates in Park Lane, it will be our last stop.” I held on tightly as the train pushed up suddenly to the station. I looked at my watch – 2:34am. Swinging my bag over my shoulder. I stood in front of the smooth double doors waiting for it to open.
 
 I knew going to the cinema was a bad idea, watching movies at 12 is not my cup of tea. I checked my phone again; my dad was meant to p ick me up at park lane and that was where I was. All I could see was a distant figure of what looked like to be a car.

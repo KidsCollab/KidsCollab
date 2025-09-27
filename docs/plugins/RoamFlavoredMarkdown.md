@@ -2,6 +2,8 @@
 title: RoamFlavoredMarkdown
 tags:
   - plugin/transformer
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:21 pm
 ---
 
 This plugin provides support for [Roam Research](https://roamresearch.com) compatibility. See [[Roam Research Compatibility]] for more information.
@@ -19,7 +21,7 @@ This plugin accepts the following configuration options:
 - `pdfComponent`: If `true` (default), converts Roam `{{[[pdf]]:URL}}` shortcodes into embeded HTML PDF viewer.
 - `blockquoteComponent`: If `true` (default), converts Roam `{{[[>]]}}` shortcodes into Quartz blockquotes.
 
-## API
+# API
 
 - Category: Transformer
 - Function name: `Plugin.RoamFlavoredMarkdown()`.

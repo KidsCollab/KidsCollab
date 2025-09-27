@@ -3,8 +3,11 @@ comments: true
 title: Glorious Dunes
 draft: false
 tags: [NathanW, KidsCollab/Fiction]
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
- 
+
+
 Blue. Blue and repetitive. The only way to describe my old life. Back where the Organi ruled and we weren’t allowed to find anything out. And we knew nothing about ourselves. You wouldn’t have a family, more like a cluster. It was this way for every little Bacto. At least until the big dark shape appeared.
 
 “Bactomam 6, you are assigned to the seahorses” Organi Regent’s rich voice cuts through the all voice bubbles. Our pods are lowered and since Regent doesn’t have the time (or the patience, says Bacto 46) to deal with us. I, as Bacto 26, extract the blood bubbles from the seahorses. The sensation of the air pockets float around and tickle, though I immediately hand them over. All Bactos in Bactomam 6, 16,26,36,46,56 and 66 have done their work. Nobody notices, of course. No one ever pays attention to the silly old Bactomams.
@@ -44,6 +47,7 @@ Channelling my thought the same way in that final showdown, I stared at those du
 So, my life in the terrible ocean was done, I had left my legacy. As I watched foamy white waves slam and give the marbles a doover, I laid back and realised my job was done. I would begin my new life on land, surrounded by this wonderful scenery and glen. And I have paved the way for others to have the same life too. All I have to do is wait. Wait, wait, wait.
 
 60 years later
+
 In a better world
 
 I lie there, holding a marble to my chest. I’m surrounded by people. Team 6 who came in the only a few months after I left the message, the same way I came. And my family. After 5 years. But they got there in the end. Which is all that matters. I no longer care about how different we are.  My time is up, I know. As I bow my head for the last time, I recall my life. And now I know, know that those marbles of light were sand, and the sand was a beach, and a beach was land and water, and that sea and land made up our beautiful world that was part of a galaxy that was part of a universe I knew I could never fully comprehend. But I knew enough. So, I am relaxed as the hand clutching the yellow orb limp, and my eyelids seal opal eyes, and that static hair finally droops down in a sweet surrender to gravity after all these years, lying in the glorious dunes.

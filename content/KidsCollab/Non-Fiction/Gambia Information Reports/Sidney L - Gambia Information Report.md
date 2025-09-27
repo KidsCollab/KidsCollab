@@ -3,17 +3,19 @@ title: Sidney L - Gambia Information Report
 draft: false
 tags: [SidneyL, KidsCollab/Non-Fiction]
 comments: true
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
 
-## Introduction
+# Introduction
 
 Have you ever heard of Gambia? Gambia is situated in Western Africa. Its full name is the Republic of Gambia. It is part of the Republic of Senegal. Its land area is 11 925 km2.  Its official language is English.
 
-## Location
+# Location
 
 Gambia is the smallest country in Africa. It is surrounded by Senegal, North, East and South. Hus it is part of the republic of Senegal. On it’s west, it is the Atlantic Ocean. It is situated in West Africa. The capital of Gambia is Bengal. The River Gambie is a major river in West Africa, running 1 120 kilometres going west past Gambia to the Atlantic Ocean.
 
-## Culture
+# Culture
 
 Gambia is traditionally very tolerant of all religious creeds. Gambia is predominantly Muslim. 90% of the population practices basic Islam traditions. There are many different tribal groups in Gambia. They include:
 
@@ -31,7 +33,7 @@ Other (4%)
 
 99% of the People in Gambia are African while 1% that live in Gambia are non-African.
 
-## History
+# History
 
 The first written records Arab traders in the 0th to the 10th century.
 
@@ -43,7 +45,7 @@ In the 16th Century, the region came to be ruled by the Songhai Empire.
 
 The GDP in Gambia is 1.76 %
 
-## Nature
+# Nature
 
 Gambia has a Subtropical climate with sunshine through the year. The average temperature is between 29 degrees Celsius and 34 degrees Celsius
 
@@ -51,7 +53,7 @@ There were only two distinct seasons
 
 The end of October which is the start of the dry season, and in Mid-June which is when any rain comes marking the green season. The flat terrain of the Gambia drained by the Gambia River is categorised under 37 000 habitat types. The habitat types are the coast, mangroves and Banto Faros, wetlands, farmlands, savanna and the Sahel habitats, gallery forests and urban habitats and so on.
 
-## Traditional Food
+# Traditional Food
 
 Some types of popular food in Gambia are:
 

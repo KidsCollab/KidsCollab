@@ -3,7 +3,10 @@ title: Car Dependency
 draft: false
 tags: [AdamP, KidsCollab/Non-Fiction]
 comments: true
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
+
 By Adam P
 
 Ever since the invention of the motor car, our cities, towns and infrastructure have been designed with these vehicles in mind. Since the end of WWII, car ownership has exploded, pushing urban development to the fringes of cities.
@@ -11,15 +14,10 @@ Ever since the invention of the motor car, our cities, towns and infrastructure 
 Some of the most notable impacts of car dependency that can be seen in cities today include:
 
 - Closure of tramways
-
 - Large freeways
-
 - Sprawling low-density development
-
 - Absence of corner shops
-
 - Relocation of businesses to large complexes
-
 - Reduction in public transport
 
 One of the most notable aspects of car dependency is freeways. These are large, controlled access roads intended to bypass urban centres and provide quick and easy travel for cars and trucks. The freeway age in Australia started with the opening of the Cahill Expressway in Sydney. It was built so vehicles could bypass congested city streets and instead bypass them on the northern and eastern edges. Over the next 50 years, countless new freeways were constructed all over Australia.
@@ -34,7 +32,7 @@ Now, the biggest and most evident in city planning: urban sprawl. Any commentary
 
 There are many changes that the car brought with it, but these are some of the biggest. Unfortunately, the biggest changes were also the worst. Removal of trams, additions of freeways, and urban sprawl are the negative consequences that came with the car. Hopefully in the future, these problems can be rectified, and the car will become a better member of our society.
 
-### Related Articles
+# Related Articles
 
 Why Australia needs to have a conversation about removing freeways https://thefifthestate.com.au/urbanism/infrastructure/why-australia-needs-to-have-a-conversation-about-removing-freeways/
 

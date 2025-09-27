@@ -3,8 +3,9 @@ title: "Earth's Illness"
 draft: false
 tags: [NathanW, KidsCollab/Science-Fiction]
 comments: true
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 
 Every day, the planets met to brag. “I have the fastest orbit", boasted Mercury, looking cute in his tiny body. “I am the hottest”, declared Venus through his thick accent. Mars said, "no one owns as fine dust as me”. “I am the biggest”, announced Jupiter, his big red spot enlarging. “My rings are the masterpiece of the solar system", insisted Saturn, spinning indignantly. “I am the greatest dancer", Uranus retaliated, continually breakdancing on his side. “I have the coldest surface”, shrieked Neptune from a distance.
 

@@ -3,8 +3,11 @@ comments: true
 title: Razing
 draft: false
 tags: [NathanW, KidsCollab/Fiction]
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
- 
+
+
 He rises, his eyes sullen and blank. He reaches for a photo, crinkles creasing on his face. But when he touches the frame, his mind flashes like lightning.
 
 And now he is somewhere else, young but wounded, his fingers numb and his brain frozen. Bullets whip past his face but he does not see where they are from.

@@ -5,10 +5,11 @@ tags:
   - KidsCollab/Diaries
   - SidneyL
 comments: true
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
 
-
-## Saturday, 12th of December 2020
+# Saturday, 12th of December 2020
 
 7am
 
@@ -80,7 +81,7 @@ We are fighting a moth in the tent for about 10 minutes and finally we killed th
 
 <br></br>
 
-## Sunday, 13th of December 2020
+# Sunday, 13th of December 2020
 
 6:30am
 
@@ -116,7 +117,7 @@ We remembered we had carols on the driveway that we watched on the computer broa
 
 <br></br>
 
-## Monday, 14th of December 2020
+# Monday, 14th of December 2020
 
 8:30am
 
@@ -131,6 +132,7 @@ We went to the activities hut and we did some craft and played with a lot of gem
 We are in the road to Woolgoolga beach and it is still raining, and we’ll have fish and chips. Mum said that we’ll be dumped in the water parks after we come back. I am really hungry, so I hope to have a good lunch.
 
 1pm
+
 We are at the water park and I ma having a lot of fun like going down water slides and playing with Felix. But the sad part of that it is was raining and it was so cold Mum told me my lips were blue. We are going to play until around 4 o’clock.
 
 Late
@@ -145,9 +147,10 @@ Mum and Dad had to go and have a shower, so Felix and I  stayed at the games are
 
 <br></br>
 
-## Tuesday, 15th December 2020
+# Tuesday, 15th December 2020
 
 7:05 am
+
 I just woke up and we are eating bagels in the tent and yes, it is still raining. Not raining ROCK hard but METEOR hard. I mean it rained so hard that the water from the top layer of the tent dripped to the second layer covering us.
 
 7:20am
@@ -161,6 +164,7 @@ Felix and I went to the Arcade Room while Mum and Dad packed up the tent.
 10am
 
 We are setting off for Bingara and I am really excited to see our friends. We are going to stop at around Glen Innes to see the rocks and have lunch.
+
 12:15pm
 
 We are at Glen Innes and I had a great lunch. I had chicken schnitzel and burger and scones. We are going to set off to Bingara.
@@ -292,6 +296,7 @@ We are hitting the road back home, 398km. Not long.
 We are only 26km from home and we are really excited to open the pencils and cars and play the piano. (The piano sounds different when you haven’t played it for a while.)
 
 8pm
+
 We are going to be eating out tonight and I am very happy.
 
 9pm

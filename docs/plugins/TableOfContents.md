@@ -2,6 +2,8 @@
 title: TableOfContents
 tags:
   - plugin/transformer
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:21 pm
 ---
 
 This plugin generates a table of contents (TOC) for Markdown documents. See [[table of contents]] for more information.
@@ -19,7 +21,7 @@ This plugin accepts the following configuration options:
 > [!warning]
 > This plugin needs the `Component.TableOfContents` component in `quartz.layout.ts` to determine where to display the TOC. Without it, nothing will be displayed. They should always be added or removed together.
 
-## API
+# API
 
 - Category: Transformer
 - Function name: `Plugin.TableOfContents()`.

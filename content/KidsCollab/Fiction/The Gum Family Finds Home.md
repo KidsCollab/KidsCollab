@@ -3,8 +3,11 @@ comments: true
 title: The Gum Family Finds Home
 draft: false
 tags: [SidneyL, KidsCollab/Fiction]
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
- 
+
+
 The Gum Family of four lives in a very unstable gum tree.
 
 They felt very annoyed that the tree was unstable and very challenging to take it under control.

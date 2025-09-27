@@ -3,6 +3,8 @@ title: Teamwork Requires Collective Needs Above His Own
 draft: false
 tags: [NathanW, KidsCollab/Non-Fiction]
 comments: true
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
 
 One for all, and all for one. The legendary motto echoed by the Three Musketeers, copied into numerous cultures such as High School Musical and Keeper of The Lost Cities. It’s a quote that teams all over the world rally behind. Loyalty and a united front are central to their ideals because teamwork requires the individual privileges collective needs above his own.

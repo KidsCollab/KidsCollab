@@ -1,5 +1,7 @@
 ---
-title: Configuration
+title: configuration
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:24 pm
 ---
 
 Quartz is meant to be extremely configurable, even if you don't know any coding. Most of the configuration you should need can be done by just editing `quartz.config.ts` or changing [[layout|the layout]] in `quartz.layout.ts`.
@@ -16,7 +18,7 @@ const config: QuartzConfig = {
 }
 ```
 
-## General Configuration
+# General Configuration
 
 This part of the configuration concerns anything that can affect the whole site. The following is a list breaking down all the things you can configure:
 
@@ -37,7 +39,7 @@ This part of the configuration concerns anything that can affect the whole site.
 - `locale`: used for [[i18n]] and date formatting
 - `baseUrl`: this is used for sitemaps and RSS feeds that require an absolute URL to know where the canonical 'home' of your site lives. This is normally the deployed URL of your site (e.g. `quartz.jzhao.xyz` for this site). Do not include the protocol (i.e. `https://`) or any leading or trailing slashes.
   - This should also include the subpath if you are [[hosting]] on GitHub pages without a custom domain. For example, if my repository is `jackyzha0/quartz`, GitHub pages would deploy to `https://jackyzha0.github.io/quartz` and the `baseUrl` would be `jackyzha0.github.io/quartz`.
-  - Note that Quartz 4 will avoid using this as much as possible and use relative URLs whenever it can to make sure your site works no matter _where_ you end up actually deploying it.
+  - Note that Quartz 4 will avoid using this as much as possible and use relative URLs whenever it can to make sure your site works no matter *where* you end up actually deploying it.
 - `ignorePatterns`: a list of [glob](<https://en.wikipedia.org/wiki/Glob_(programming)>) patterns that Quartz should ignore and not search through when looking for files inside the `content` folder. See [[private pages]] for more details.
 - `defaultDateType`: whether to use created, modified, or published as the default date to display on pages and page listings.
 - `theme`: configure how the site looks.
@@ -57,7 +59,7 @@ This part of the configuration concerns anything that can affect the whole site.
     - `highlight`: internal link background, highlighted text, [[syntax highlighting|highlighted lines of code]]
     - `textHighlight`: markdown highlighted text background
 
-## Plugins
+# Plugins
 
 You can think of Quartz plugins as a series of transformations over content.
 
@@ -78,7 +80,7 @@ plugins: {
 You can customize the behaviour of Quartz by adding, removing and reordering plugins in the `transformers`, `filters` and `emitters` fields.
 
 > [!note]
-> Each node is modified by every transformer _in order_. Some transformers are position sensitive, so you may need to pay particular attention to whether they need to come before or after certain other plugins.
+> Each node is modified by every transformer *in order*. Some transformers are position sensitive, so you may need to pay particular attention to whether they need to come before or after certain other plugins.
 
 You should take care to add the plugin to the right entry corresponding to its plugin type. For example, to add the [[ExplicitPublish]] plugin (a [[tags/plugin/filter|Filter]]), you would add the following line:
 

@@ -2,6 +2,8 @@
 title: FolderPage
 tags:
   - plugin/emitter
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:22 pm
 ---
 
 This plugin generates index pages for folders, creating a listing page for each folder that contains multiple content files. See [[folder and tag listings]] for more information.
@@ -17,7 +19,7 @@ This plugin accepts the following configuration options:
 
 - `sort`: A function of type `(f1: QuartzPluginData, f2: QuartzPluginData) => number{:ts}` used to sort entries. Defaults to sorting by date and tie-breaking on lexographical order.
 
-## API
+# API
 
 - Category: Emitter
 - Function name: `Plugin.FolderPage()`.

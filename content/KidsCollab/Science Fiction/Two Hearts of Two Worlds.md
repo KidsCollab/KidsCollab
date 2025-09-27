@@ -3,6 +3,8 @@ title: Two Hearts of Two Worlds
 draft: false
 tags: [SidneyL, KidsCollab/Science-Fiction]
 comments: true
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
 
 Two Hearts of Two Worlds
@@ -15,13 +17,13 @@ These two planets are Klopsifigest and Euroa.
 
 They both had a goal. But they were both very different.
 
-Klopsifigest wanted to save the planet and have a more environmentally friendly environment.  
+Klopsifigest wanted to save the planet and have a more environmentally friendly environment.
 
-Euroa wanted to have more jobs, have more buildings and be way more rich.  
+Euroa wanted to have more jobs, have more buildings and be way more rich.
 
 The Klopsy, so immaculate
 
-The environment, so crystal clear,  
+The environment, so crystal clear,
 
 The wind turbines generating
 
@@ -49,7 +51,7 @@ To the environment at all.
 
 <br></br>
 
-In the southern plains of Euroa,  
+In the southern plains of Euroa,
 
 See the filthy cars go
 
@@ -59,7 +61,7 @@ The environment so destroyed, could not of been worse.
 
 <br></br>
 
-In residences of planet Klopsy,  
+In residences of planet Klopsy,
 
 The waters are not wasted
 
@@ -70,6 +72,7 @@ For berries are picked for only when they’re eaten.
 In residences of planet Euroa,
 
 The waters are wasted
+
 For berries are taken for granted.
 
 <br></br>

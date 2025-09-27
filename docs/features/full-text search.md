@@ -1,7 +1,9 @@
 ---
-title: Full-text Search
+title: full-text search
 tags:
   - component
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:23 pm
 ---
 
 Full-text search in Quartz is powered by [Flexsearch](https://github.com/nextapps-de/flexsearch). It's fast enough to return search results in under 10ms for Quartzs as large as half a million words.
@@ -15,13 +17,13 @@ This component is also keyboard accessible: Tab and Shift+Tab will cycle forward
 > [!info]
 > Search requires the `ContentIndex` emitter plugin to be present in the [[configuration]].
 
-### Indexing Behaviour
+# Indexing Behaviour
 
 By default, it indexes every page on the site with **Markdown syntax removed**. This means link URLs for instance are not indexed.
 
 It properly tokenizes Chinese, Korean, and Japenese characters and constructs separate indexes for the title, content and tags, weighing title matches above content matches.
 
-## Customization
+# Customization
 
 - Removing search: delete all usages of `Component.Search()` from `quartz.layout.ts`.
 - Component: `quartz/components/Search.tsx`

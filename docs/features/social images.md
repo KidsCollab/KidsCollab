@@ -1,11 +1,14 @@
 ---
-title: "Social Media Preview Cards"
+title: social images
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:23 pm
 ---
 
 A lot of social media platforms can display a rich preview for your website when sharing a link (most notably, a cover image, a title and a description). Quartz automatically handles most of this for you with reasonable defaults, but for more control, you can customize these by setting [[social images#Frontmatter Properties]].
+
 Quartz can also dynamically generate and use new cover images for every page to be used in link previews on social media for you. To get started with this, set `generateSocialImages: true` in `quartz.config.ts`.
 
-## Showcase
+# Showcase
 
 After enabling `generateSocialImages` in `quartz.config.ts`, the social media link preview for [[authoring content | Authoring Content]] looks like this:
 
@@ -15,7 +18,7 @@ After enabling `generateSocialImages` in `quartz.config.ts`, the social media li
 
 For testing, it is recommended to use [opengraph.xyz](https://www.opengraph.xyz/) to see what the link to your page will look like on various platforms (more info under [[social images#local testing]]).
 
-## Customization
+# Customization
 
 You can customize how images will be generated in the quartz config.
 
@@ -32,7 +35,7 @@ generateSocialImages: {
 
 ---
 
-### Frontmatter Properties
+## Frontmatter Properties
 
 > [!tip] Hint
 >
@@ -55,7 +58,7 @@ The `socialImage` property should contain a link to an image relative to `quartz
 
 ---
 
-### Fully customized image generation
+## Fully Customized Image Generation
 
 You can fully customize how the images being generated look by passing your own component to `generateSocialImages.imageStructure`. This component takes html/css + some page metadata/config options and converts it to an image using [satori](https://github.com/vercel/satori). Vercel provides an [online playground](https://og-playground.vercel.app/) that can be used to preview how your html/css looks like as a picture. This is ideal for prototyping your custom design.
 
@@ -85,19 +88,19 @@ Now, you can let your creativity flow and design your own image component! For r
 >
 > - Get a theme color
 >
->   `cfg.theme.colors[colorScheme].<colorName>`, where `<colorName>` corresponds to a key in `ColorScheme` (defined at the top of `quartz/util/theme.ts`)
+> `cfg.theme.colors[colorScheme].<colorName>`, where `<colorName>` corresponds to a key in `ColorScheme` (defined at the top of `quartz/util/theme.ts`)
 >
 > - Use the page title/description
 >
->   `<p>{title}</p>`/`<p>{description}</p>`
+> `<p>{title}</p>`/`<p>{description}</p>`
 >
 > - Use a font family
 >
->   Detailed in the Fonts chapter below
+> Detailed in the Fonts chapter below
 
 ---
 
-### Fonts
+## Fonts
 
 You will also be passed an array containing a header and a body font (where the first entry is header and the second is body). The fonts matches the ones selected in `theme.typography.header` and `theme.typography.body` from `quartz.config.ts` and will be passed in the format required by [`satori`](https://github.com/vercel/satori). To use them in CSS, use the `.name` property (e.g. `fontFamily: fonts[1].name` to use the "body" font family).
 
@@ -150,19 +153,19 @@ export const myImage: SocialImageOptions["imageStructure"] = (...) => {
 >
 > This font then can be used with your custom structure
 
-### Local testing
+## Local Testing
 
 To test how the full preview of your page is going to look even before deploying, you can forward the port you're serving quartz on. In VSCode, this can easily be achieved following [this guide](https://code.visualstudio.com/docs/editor/port-forwarding) (make sure to set `Visibility` to `public` if testing on external tools like [opengraph.xyz](https://www.opengraph.xyz/)).
 
 If you have `generateSocialImages` enabled, you can check out all generated images under `public/static/social-images`.
 
-## Technical info
+# Technical Info
 
 Images will be generated as `.webp` files, which helps to keep images small (the average image takes ~`19kB`). They are also compressed further using [sharp](https://sharp.pixelplumbing.com/).
 
 When using images, the appropriate [Open Graph](https://ogp.me/) and [Twitter](https://developer.twitter.com/en/docs/twitter-for-websites/cards/guides/getting-started) meta tags will be set to ensure they work and look as expected.
 
-## Examples
+# Examples
 
 Besides the template for the default image generation (found under `quartz/util/og.tsx`), you can also add your own! To do this, you can either edit the source code of that file (not recommended) or create a new one (e.g. `customSocialImage.tsx`, source shown below).
 

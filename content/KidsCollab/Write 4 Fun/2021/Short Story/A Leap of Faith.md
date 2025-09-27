@@ -3,8 +3,11 @@ comments: true
 title: A Leap of Faith
 draft: false
 tags: [ThomasM, KidsCollab/Write4Fun]
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
- 
+
+
 Glaring down on me, the ever so large ball of fire known as our sun gave us the hottest recorded day of the decades. On the torn seat of old Volvo bus, I could feel a small wire prod me in the back, harder each time we drove over a divot in the poorly constructed road. As I wearily gazed out of the window, shrivelled and frayed bushes casually rolled along the dusty surface. I allowed myself to doze of for 1 minute, which became 2, then 5 and so on.
 
 I woke to the screeching of rusty brakes and shuffling of scuffed shoes. When I stepped out of the bus, I instantly could feel the sweltering heat, slapping me in the face. Each and every step was more agonising as the last as I slowly strutted out into the desert, unsure of where I was going.

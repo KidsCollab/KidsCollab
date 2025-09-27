@@ -3,8 +3,11 @@ comments: true
 title: Finished
 draft: false
 tags: [NathanW, KidsCollab/Fiction]
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
- 
+
+
 <i>This story was written based on the prompt: A Rabbit doesn't want ot get eaten by a Fox.
 
 This story may contain names that are similar to a popular book and TV series.</i>

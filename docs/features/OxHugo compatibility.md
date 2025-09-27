@@ -1,7 +1,9 @@
 ---
-title: "OxHugo Compatibility"
+title: OxHugo compatibility
 tags:
   - feature/transformer
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:23 pm
 ---
 
 [org-roam](https://www.orgroam.com/) is a plain-text personal knowledge management system for [emacs](https://en.wikipedia.org/wiki/Emacs). [ox-hugo](https://github.com/kaushalmodi/ox-hugo) is org exporter backend that exports `org-mode` files to [Hugo](https://gohugo.io/) compatible Markdown.
@@ -20,10 +22,10 @@ plugins: {
 },
 ```
 
-## Usage
+# Usage
 
 Quartz by default doesn't understand `org-roam` files as they aren't Markdown. You're responsible for using an external tool like `ox-hugo` to export the `org-roam` files as Markdown content to Quartz and managing the static assets so that they're available in the final output.
 
-## Configuration
+# Configuration
 
 This functionality is provided by the [[OxHugoFlavoredMarkdown]] plugin. See the plugin page for customization options.

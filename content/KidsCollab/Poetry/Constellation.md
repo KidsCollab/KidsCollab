@@ -3,6 +3,8 @@ title: Constellation
 draft: false
 tags: [NathanW, KidsCollab/Poetry]
 comments: true
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
 
 <center>**Constellation**
@@ -28,6 +30,7 @@ Gone, after a billion years, to end in my eyes.
 But are they?
 
 Energy never dies, only changes.
+
 That light in space comes to me.
 
 That light, the lonely traveller in the dark night coming to me.

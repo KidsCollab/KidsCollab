@@ -3,6 +3,8 @@ title: Gold Mining in Australia
 draft: false
 tags: [NathanW, KidsCollab/Non-Fiction]
 comments: true
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
 
 Australia is a country where its past events deeply make their mark in the future. One of these major events is the gold mining industry. It was a pivotal point in the growth of population and democracy. I will tell you about the impact it had, what happened and why it affected the our future.
@@ -13,7 +15,7 @@ Of course, people were shocked by this violence, and the government of Australia
 
 The Ballarat gold rush had a huge role in what Australia is today and gave rise to population and strengthened us in democratic growth. It was the only ever armed collision civil battle that shocked the public with the show of violence but also courage. It showed that everyone from anywhere in Australia still has the right to make this country change. I think the lesson of this is, and I quote the Seekers, I am, you are, we are Australian.
 
-## Bibliography
+# Bibliography
 
 https://www.nma.gov.au/defining-moments/resources/gold-rushes
 

@@ -5,11 +5,13 @@ tags:
   - KidsCollab/Diaries
   - SidneyL
 comments: true
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
 
-## 19-27 January 2023
+# 19-27 January 2023
 
-## Friday 20 January
+# Friday 20 January
 
 0800  We’re just finishing tidying up and we’re almost ready to go! We managed to fit two scooters in the car. It was better than I thought. Not as packed as last time. I’m so excited!
 
@@ -55,7 +57,7 @@ comments: true
 
 <br></br>
 
-## Saturday 21 January
+# Saturday 21 January
 
 0734   I just woke up, it’s been not the best night sleep, but I’ve been looking forward to what is ahead for us today.
 
@@ -85,7 +87,7 @@ comments: true
 
 <br></br>
 
-## Sunday 22 January
+# Sunday 22 January
 
 0746  We had woken up and just finished looking around the campsite. We are having breakfast outside!
 
@@ -107,7 +109,7 @@ comments: true
 
 2235   We are about to go to sleep after a good shower and we are supposed to go to Bribie Island and have a lot of time set aside for water activities and just staying at the pool. And one thing I’ve noticed is that in the morning, a lot of cars were leaving when I noticed that Queensland started school tomorrow. Now that the park is a little emptier, we can enjoy more of the facilities!
 
-## Monday 23 January
+# Monday 23 January
 
 0845   I woke up a little while ago and we just went to the reception for a favour for us to move our tent closer to the amenities and kitchen. We have a pretty long walk to our kitchen. We have a pretty long walk to our kitchen and amenities. So, there was only one spot that was classified as small, powered campsite and it was the one diagonal to us, which wasn’t really helpful. So, we checked if there were any difference in price between a small, powered camping site and a regular one. It turned out that there was no difference! So, they gave us a few choices, so we chose 132 which was the closest to the amenities. We have to now move the tent four rows down, so we are staying at the campsite for the entire day! Breakfast was really good, especially the Nutella. It was bread and Nutella. It turned out to be exceptionally good with milk. Anyways, we’d better start moving!
 
@@ -119,7 +121,7 @@ comments: true
 
 <br></br>
 
-## Tuesday 24 January
+# Tuesday 24 January
 
 0915	We just had breakfast which was exactly the same as yesterday, bread and Nutella. We are about to head out to the Sunshine Coast and coming back hopefully before 3pm. It is extremely hot out here! I was sweating before I even got out of the tent! The car should be cooler now as it has the air conditioning on. We are probably going for the pool for our 100th time. Our side of the camp is basically empty.
 
@@ -149,7 +151,7 @@ comments: true
 
 <br></br>
 
-## Wednesday 25 January
+# Wednesday 25 January
 
 0803  We’ve just had breakfast which was small packets of cereal which definitely not enough. 25g?! Anyway, I’m pretty excited to go to Brisbane today as we are going to take the Queensland trains.
 
@@ -159,7 +161,7 @@ comments: true
 
 <br></br>
 
-## Tuesday 26 January
+# Tuesday 26 January
 
 0818	I’ve woken up and having breakfast now, it’s packaged cereal and bread. We’re set to have to pack the tent and eventually say goodbye to our holiday resort.
 
@@ -195,7 +197,7 @@ comments: true
 
 <br></br>
 
-## Friday 27 January
+# Friday 27 January
 
 0815	I’ve just woken up and we’re about to have b breakfast which is cereal (again!)
 
@@ -219,12 +221,13 @@ comments: true
 
 <br></br>
 
-## Summary
+# Summary
 
 Queensland was a great experience! It was similar to NSW expect that it was either really bad or perfect! I really like the coast of Queensland where you can see the ocean most of the time and there is a fresh breeze which is good when it’s hot!  It was really fun to go on the new activities and the long drive was definitely work it! A highlight has to be the Queensland Rail network as there were major difference between the NSW ones. The City of Brisbane is so big and awesome that we didn’t get to see the whole city. ☹️ But, nevertheless, I learned a lot from Queensland. It’s safe to say that it’s the best holiday that I’ve been on!
 
 <br></br>
-## Footnotes
+
+# Footnotes
 
 [1] QLD Time
 

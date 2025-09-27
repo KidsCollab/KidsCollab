@@ -3,6 +3,8 @@ comments: true
 title: Bartolomeo Cristofori
 draft: false
 tags: [SidneyL, KidsCollab/Speeches]
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
 
 Well, we all know of the melodious instrument, the piano. But does any one of us know who is the person who invented this instrument? In my opinion, the most significant person in history is Bartolomeo Cristofori.

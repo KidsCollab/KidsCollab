@@ -2,6 +2,8 @@
 title: CrawlLinks
 tags:
   - plugin/transformer
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:22 pm
 ---
 
 This plugin parses links and processes them to point to the right places. It is also needed for embedded links (like images). See [[Obsidian compatibility]] for more information.
@@ -21,9 +23,9 @@ This plugin accepts the following configuration options:
 - `externalLinkIcon`: Adds an icon next to external links when `true` (default) to visually distinguishing them from internal links.
 
 > [!warning]
-> Removing this plugin is _not_ recommended and will likely break the page.
+> Removing this plugin is *not* recommended and will likely break the page.
 
-## API
+# API
 
 - Category: Transformer
 - Function name: `Plugin.CrawlLinks()`.

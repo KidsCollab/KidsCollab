@@ -2,6 +2,8 @@
 title: NotFoundPage
 tags:
   - plugin/emitter
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:22 pm
 ---
 
 This plugin emits a 404 (Not Found) page for broken or non-existent URLs.
@@ -11,7 +13,7 @@ This plugin emits a 404 (Not Found) page for broken or non-existent URLs.
 
 This plugin has no configuration options.
 
-## API
+# API
 
 - Category: Emitter
 - Function name: `Plugin.NotFoundPage()`.

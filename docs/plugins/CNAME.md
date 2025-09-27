@@ -2,6 +2,8 @@
 title: CNAME
 tags:
   - plugin/emitter
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:22 pm
 ---
 
 This plugin emits a `CNAME` record that points your subdomain to the default domain of your site.
@@ -15,7 +17,7 @@ See [[hosting|Hosting]] for more information.
 
 This plugin has no configuration options.
 
-## API
+# API
 
 - Category: Emitter
 - Function name: `Plugin.CNAME()`.

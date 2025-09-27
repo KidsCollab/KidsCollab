@@ -3,9 +3,11 @@ comments: true
 title: Suspensions
 draft: false
 tags: [LucasL, KidsCollab/Fiction]
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
 
-## SOMEONE HELP ME FINISH THIS
+# SOMEONE HELP ME FINISH THIS
 
 ww
 
@@ -25,7 +27,7 @@ The baguette stars were inherently unstable, so they had to be collapsed into sp
 
 For the second time, the particles were suspended in space again.
 
-## Chapter 2
+# Chapter 2
 
 Time passed, and then eventually there came a second unsuspending force. This time though, it knew that it could not interfere anymore in such inconsequential ways. This time, all the ways the particles worked had to have a set rule, and all interferences made through subtle means. However long it had passed since the resuspension, the second, and final unsuspending force was undeniably wiser.
 
@@ -35,13 +37,14 @@ Then on a planet, Earth, rain fell from its newly created atmosphere. There was 
 
 There were no humans yet, for that before them, there were the apes.
 
-## Chapter 3
+# Chapter 3
 
 With the veil of the night sky closing upon the Earth, an ape observed something in the stars. It was a silhouette, rounded in the edges, and appeared to be tubular. The ape made noises for the other apes, pointing towards the baguette, its feet dancing rapidly. However the others took no notice of it, and fell back into a slumber.
 
 The silhouette descended slowly as the ape approached, and they finally met in a piece of vegetation-less soil. What followed was a chaotic mess of noises; they clouded the ape’s mind; it was obviously shook, movement to a halt and eyes staring at the baguette. There was screeching, thumping, wheezing, and a manifold of other noises. The chaos of the noise settled, resulting in a stream of noise. Though the ape does not know the words coming from it, it has understood precisely what every thing it said meant.
 
 The noises spoke:
+
 “This is the word of the baguette, the word of the unsuspending force.
 
 “Do not fear me, for there is nothing to be afraid of. I come to you to sort out issues I have identified with the evolution on Earth: favouring shorter term gains. It is a dark pattern. I hope In this conversation you can be rewired in your thinking to see the long-term gains of the game
@@ -60,7 +63,7 @@ There was revolt from the ape.
 
 The next instant the ape’s heart was grounded, though. It knew to follow the instructions of the baguette.
 
-## Chapter 4
+# Chapter 4
 
 As the sun rose from behind a range of mountains, the ape awoke in a midst of confusion. Slowly, its senses came to it, and it sat in slight agony. It looked towards the open field where the baguette had been, but in its place was now a tree.
 
@@ -72,7 +75,7 @@ When the others woke and picked berries from the trees, the ape sat, looking at 
 
 However delicious the food in front of it looked, it always suppressed its impulses. This was not normal, it felt. And indeed it wasn’t – no animal had done this before.
 
-## Chapter 5
+# Chapter 5
 
 On the night of the fifth day, as the ape was about to go to sleep, a strong thump sounded. It saw another silhouette against the sky, its rim lit a light blue by the moon. It was not a baguette this time. It was a predator.
 
@@ -90,7 +93,7 @@ The baguette is the enemy, therefore I will succumb, the ape thought.
 
 And it lowered its jaw, chewed on the flesh, and swallowed. It was satisfied.
 
-## Chapter 6
+# Chapter 6
 
 The ape woke with a tingling sensation. There was, however, nothing there that would have caused it, upon inspection. Just before the ape was about to go back to sleep, it caught sight of a baguette standing upright on the open field, where it was last time, and the tree gone.
 

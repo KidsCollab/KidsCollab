@@ -3,8 +3,11 @@ comments: true
 title: If Looks Could Kill
 draft: false
 tags: [NathanW, KidsCollab/Fiction]
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
- 
+
+
 I stand with debris all around me. Beyond my vision there is more. A glare was all it took. It claimed the lives of many. I will tell it all.
 
 In Africa, at noon, a weary explorer sat down. Deep into a jungle, he was exhausted. When he glimpsed the plumage of the infamous bird of Aveminis. The worry lines etched in his forehead multiplied at an alarming rate. The bird was known for one glare from the bird's piercing eyes would surely put any life form to a painful peril. The panic-stricken explorer felt petrifying pain in his eyes as the bird turned its head sharply and once again slayed in seconds.

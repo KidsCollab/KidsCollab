@@ -3,8 +3,11 @@ comments: true
 title: Robo-Fish
 draft: false
 tags: [SidneyL, KidsCollab/Fiction]
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
- 
+
+
 Fizz! Bang! Pop! A ship has just come in pulling 10 tonnes of cargo and was going at a jaw dropping 100 nautical miles an hour! The ship has just toppled sideways letting all the cargo and goods into the ocean. But what they didn’t know about was that there were acid tanks too! What a disaster!
 
 At first, it seemed like no one noticed it but a very quick marine life service boat has come! As soon as the guys on board the marine ship saw the wreck and they exclaimed, “Wow! This must have been a disaster!” They were the only ones that knew that there were endangered species underwater!

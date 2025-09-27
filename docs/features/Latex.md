@@ -1,14 +1,16 @@
 ---
-title: LaTeX
+title: Latex
 tags:
   - feature/transformer
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:23 pm
 ---
 
 Quartz uses [Katex](https://katex.org/) by default to typeset both inline and block math expressions at build time.
 
-## Syntax
+# Syntax
 
-### Block Math
+## Block Math
 
 Block math can be rendered by delimiting math expression with `$$`.
 
@@ -53,11 +55,11 @@ $$
 > [!warn]
 > Due to limitations in the [underlying parsing library](https://github.com/remarkjs/remark-math), block math in Quartz requires the `$$` delimiters to be on newlines like above.
 
-### Inline Math
+## Inline Math
 
 Similarly, inline math can be rendered by delimiting math expression with a single `$`. For example, `$e^{i\pi} = -1$` produces $e^{i\pi} = -1$
 
-### Escaping symbols
+## Escaping Symbols
 
 There will be cases where you may have more than one `$` in a paragraph at once which may accidentally trigger MathJax/Katex.
 
@@ -68,15 +70,16 @@ For example:
 - Incorrect: `I have $1 and you have $2` produces I have $1 and you have $2
 - Correct: `I have \$1 and you have \$2` produces I have \$1 and you have \$2
 
-### Using mhchem
+## Using Mhchem
 
 Add the following import to the top of `quartz/plugins/transformers/latex.ts` (before all the other
+
 imports):
 
 ```ts title="quartz/plugins/transformers/latex.ts"
 import "katex/contrib/mhchem"
 ```
 
-## Customization
+# Customization
 
 Latex parsing is a functionality of the [[plugins/Latex|Latex]] plugin. See the plugin page for customization options.

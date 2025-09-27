@@ -3,6 +3,8 @@ comments: true
 title: Dr Karl
 draft: false
 tags: [NathanW, KidsCollab/Speeches]
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
 
 My name is Dr Karl Kruszelnicki, pronounced Crucial - Nit -Ski! That may seem like quite a mouthful, but at least I don’t make you worry about saying all 5 of my middle names. I’m a Member of the Order of Australia, but I was actually born in Sweden. How did that happen? Let me tell you the story.

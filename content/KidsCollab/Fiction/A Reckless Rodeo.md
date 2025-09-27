@@ -3,8 +3,11 @@ comments: true
 title: A Reckless Rodeo
 draft: false
 tags: [AdamP, KidsCollab/Fiction]
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
- 
+
+
 ‘And the list of compulsory classes is as follows,’ the teacher said, ‘English, Maths, Science, History and Agriculture.’ Albert raised his hand silently amidst the announcement.
 
 ‘Why do we have to do Agriculture in Year 7?’ he groans.
@@ -24,6 +27,7 @@ Oh no!’ Albert thought. He started sprinting to the office. In one minute, he 
 So much for making friends,’ Albert murmured. Just before class ended, Mrs Wyong gave everyone their cows. Albert got two female beef cows, one most notably a Red Angus. Their names were Buttercup and Daisy. He thought these were terrible names as almost every cow in every book, movie and audiobook had cows named Buttercup or Daisy.
 
 The next few weeks of school were not very exciting for Albert. English assignments, maths pop quizzes and history reports were due every day. Loaded up with homework, on the 19th of May, Albert knew that with the Dubbo show coming up, he needed to control his cows. They were not the most well behaved livestock, but not the worst. As his dad always quoted,
+
 ‘Trng klāng nidh̄ǹxy (just a little in the middle).’
 
 When the show day came around, the Thai boy was up from bed at 5am. This was going to be the norm for the next three days. He had fried rice with stir-fried vegetables, not because it was Thai, but because it was one of the most non-Thai Thai foods.

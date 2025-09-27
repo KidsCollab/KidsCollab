@@ -1,5 +1,7 @@
 ---
-title: Hosting
+title: hosting
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:22 pm
 ---
 
 Quartz effectively turns your Markdown files and other resources into a bundle of HTML, JS, and CSS files (a website!).
@@ -12,7 +14,7 @@ However, if you'd like to publish your site to the world, you need a way to host
 > [!hint]
 > Some Quartz features (like [[RSS Feed]] and sitemap generation) require `baseUrl` to be configured properly in your [[configuration]] to work properly. Make sure you set this before deploying!
 
-## Cloudflare Pages
+# Cloudflare Pages
 
 1. Log in to the [Cloudflare dashboard](https://dash.cloudflare.com/) and select your account.
 2. In Account Home, select **Workers & Pages** > **Create application** > **Pages** > **Connect to Git**.
@@ -32,7 +34,7 @@ To add a custom domain, check out [Cloudflare's documentation](https://developer
 > [!warning]
 > Cloudflare Pages performs a shallow clone by default, so if you rely on `git` for timestamps, it is recommended that you add `git fetch --unshallow &&` to the beginning of the build command (e.g., `git fetch --unshallow && npx quartz build`).
 
-## GitHub Pages
+# GitHub Pages
 
 In your local Quartz, create a new file `quartz/.github/workflows/deploy.yml`.
 
@@ -95,9 +97,9 @@ Then:
 > You can do this by going to your Settings page on your GitHub fork and going to the Environments tab and pressing the trash icon. The GitHub action will recreate the environment for you correctly the next time you sync your Quartz.
 
 > [!info]
-> Quartz generates files in the format of `file.html` instead of `file/index.html` which means the trailing slashes for _non-folder paths_ are dropped. As GitHub pages does not do this redirect, this may cause existing links to your site that use trailing slashes to break. If not breaking existing links is important to you (e.g. you are migrating from Quartz 3), consider using [[#Cloudflare Pages]].
+> Quartz generates files in the format of `file.html` instead of `file/index.html` which means the trailing slashes for *non-folder paths* are dropped. As GitHub pages does not do this redirect, this may cause existing links to your site that use trailing slashes to break. If not breaking existing links is important to you (e.g. you are migrating from Quartz 3), consider using [[#Cloudflare Pages]].
 
-### Custom Domain
+## Custom Domain
 
 Here's how to add a custom domain to your GitHub pages deployment.
 
@@ -112,7 +114,7 @@ Here's how to add a custom domain to your GitHub pages deployment.
      - `185.199.111.153`
    - If you are using a subdomain, navigate to your DNS provider and create a `CNAME` record that points your subdomain to the default domain for your site. For example, if you want to use the subdomain `quartz.example.com` for your user site, create a `CNAME` record that points `quartz.example.com` to `<github-username>.github.io`.
 
-![[dns records.png]]_The above shows a screenshot of Google Domains configured for both `jzhao.xyz` (an apex domain) and `quartz.jzhao.xyz` (a subdomain)._
+![[dns records.png]]*The above shows a screenshot of Google Domains configured for both `jzhao.xyz` (an apex domain) and `quartz.jzhao.xyz` (a subdomain).*
 
 See the [GitHub documentation](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain) for more detail about how to setup your own custom domain with GitHub Pages.
 
@@ -121,9 +123,9 @@ See the [GitHub documentation](https://docs.github.com/en/pages/configuring-a-cu
 >
 > Make sure you save your changes to Git and sync it to GitHub by doing `npx quartz sync`. This will also make sure to pull any updates you may have made from other devices so you have them locally.
 
-## Vercel
+# Vercel
 
-### Fix URLs
+## Fix URLs
 
 Before deploying to Vercel, a `vercel.json` file is required at the root of the project directory. It needs to contain the following configuration so that URLs don't require the `.html` extension:
 
@@ -133,7 +135,7 @@ Before deploying to Vercel, a `vercel.json` file is required at the root of the 
 }
 ```
 
-### Deploy to Vercel
+## Deploy to Vercel
 
 1. Log in to the [Vercel Dashboard](https://vercel.com/dashboard) and click "Add New..." > Project
 2. Import the Git repository containing your Quartz project.
@@ -148,7 +150,7 @@ Before deploying to Vercel, a `vercel.json` file is required at the root of the 
 
 5. Press Deploy. Once it's live, you'll have 2 `*.vercel.app` URLs to view the page.
 
-### Custom Domain
+## Custom Domain
 
 > [!note]
 > If there is something already hosted on the domain, these steps will not work without replacing the previous content. As a workaround, you could use Next.js rewrites or use the next section to create a subdomain.
@@ -161,7 +163,7 @@ Before deploying to Vercel, a `vercel.json` file is required at the root of the 
 6. Enter the domain you want to connect it to.
 7. Follow the instructions to update your DNS records until you see "Valid Configuration"
 
-### Use a Subdomain
+## Use a Subdomain
 
 Using `docs.example.com` is an example of a subdomain. They're a simple way of connecting multiple deployments to one domain.
 
@@ -171,7 +173,7 @@ Using `docs.example.com` is an example of a subdomain. They're a simple way of c
 4. Go to the Settings tab and then click Domains in the sidebar
 5. Enter your subdomain into the field and press Add
 
-## Netlify
+# Netlify
 
 1. Log in to the [Netlify dashboard](https://app.netlify.com/) and click "Add new site".
 2. Select your Git provider and repository containing your Quartz project.
@@ -180,7 +182,7 @@ Using `docs.example.com` is an example of a subdomain. They're a simple way of c
 5. Press Deploy. Once it's live, you'll have a `*.netlify.app` URL to view the page.
 6. To add a custom domain, check "Domain management" in the left sidebar, just like with Vercel.
 
-## GitLab Pages
+# GitLab Pages
 
 In your local Quartz, create a new file `.gitlab-ci.yml`.
 
@@ -225,11 +227,11 @@ When `.gitlab-ci.yaml` is committed, GitLab will build and deploy the website as
 
 By default, the page is private and only visible when logged in to a GitLab account with access to the repository but can be opened in the settings under `Deploy` -> `Pages`.
 
-## Self-Hosting
+# Self-Hosting
 
 Copy the `public` directory to your web server and configure it to serve the files. You can use any web server to host your site. Since Quartz generates links that do not include the `.html` extension, you need to let your web server know how to deal with it.
 
-### Using Nginx
+## Using Nginx
 
 Here's an example of how to do this with Nginx:
 
@@ -247,7 +249,7 @@ server {
 }
 ```
 
-### Using Apache
+## Using Apache
 
 Here's an example of how to do this with Apache:
 
@@ -269,7 +271,7 @@ RewriteRule ^(.*)/$ $1/index.html [L]
 
 Don't forget to activate brotli / gzip compression.
 
-### Using Caddy
+## Using Caddy
 
 Here's and example of how to do this with Caddy:
 

@@ -1,13 +1,15 @@
 ---
-title: "Graph View"
+title: graph view
 tags:
   - component
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:23 pm
 ---
 
 Quartz features a graph-view that can show both a local graph view and a global graph view.
 
-- The local graph view shows files that either link to the current file or are linked from the current file. In other words, it shows all notes that are _at most_ one hop away.
-- The global graph view can be toggled by clicking the graph icon on the top-right of the local graph view. It shows _all_ the notes in your graph and how they connect to each other.
+- The local graph view shows files that either link to the current file or are linked from the current file. In other words, it shows all notes that are *at most* one hop away.
+- The global graph view can be toggled by clicking the graph icon on the top-right of the local graph view. It shows *all* the notes in your graph and how they connect to each other.
 
 By default, the node radius is proportional to the total number of incoming and outgoing internal links from that file.
 
@@ -16,7 +18,7 @@ Additionally, similar to how browsers highlight visited links a different colour
 > [!info]
 > Graph View requires the `ContentIndex` emitter plugin to be present in the [[configuration]].
 
-## Customization
+# Customization
 
 Most configuration can be done by passing in options to `Component.Graph()`.
 

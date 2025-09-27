@@ -1,16 +1,17 @@
 ---
-title: Folder and Tag Listings
-tags:
-  - feature/emitter
+title: folder and tag listings
+tags: [feature/emitter, component]
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:23 pm
 ---
 
 Quartz emits listing pages for any folders and tags you have.
 
-## Folder Listings
+# Folder Listings
 
 Quartz will generate an index page for all the pages under that folder. This includes any content that is multiple levels deep.
 
-Additionally, Quartz will also generate pages for subfolders. Say you have a note in a nested folder `content/abc/def/note.md`. Then Quartz would generate a page for all the notes under `abc` _and_ a page for all the notes under `abc/def`.
+Additionally, Quartz will also generate pages for subfolders. Say you have a note in a nested folder `content/abc/def/note.md`. Then Quartz would generate a page for all the notes under `abc` *and* a page for all the notes under `abc/def`.
 
 You can link to the folder listing by referencing its name, plus a trailing slash, like this: `[[advanced/]]` (results in [[advanced/]]).
 
@@ -18,7 +19,7 @@ By default, Quartz will title the page `Folder: <folder name>` and no descriptio
 
 For example, for the folder `content/posts`, you can add another file `content/posts/index.md` to add a specific description for it.
 
-## Tag Listings
+# Tag Listings
 
 Quartz will also create an index page for each unique tag in your vault and render a list of all notes with that tag.
 
@@ -28,6 +29,6 @@ You can link to the tag listing by referencing its name with a `tag/` prefix, li
 
 As with folder listings, you can also provide a description and title for a tag page by creating a file for each tag. For example, if you wanted to create a custom description for the #component tag, you would create a file at `content/tags/component.md` with a title and description.
 
-## Customization
+# Customization
 
 Quartz allows you to define a custom sort ordering for content on both page types. The folder listings are a functionality of the [[FolderPage]] plugin, the tag listings of the [[TagPage]] plugin. See the plugin pages for customization options.

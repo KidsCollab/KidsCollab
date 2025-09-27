@@ -3,9 +3,11 @@ title: Effect of Household Chemicals on Leek Growth
 draft: false
 tags: [AdamP, KidsCollab/Non-Fiction]
 comments: true
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
 
-## Background Information
+# Background Information
 
 Plants are the basis of the food chain and are important to our world. Their growth has been very important to monitor and many chemicals have been developed to help this process. This experiment will examine the effects of common household chemicals on the growth of plants. Due to the importance of plants, this experiment will be useful in determining new ways to help plants grow.
 
@@ -25,15 +27,15 @@ An experiment for the California State Science Fair by M. Uriostegui examined th
 
 Therefore, this experiment aiming to examine the effect of common chemicals on plant growth, can help society by finding new ways to fertilise plants. A new way to fertilise plants would be beneficial for farming, as it will reduce reliance on other fertilisers.
 
-## Aim
+# Aim
 
 To investigate the effect of common household chemicals on leek growth.
 
-## Hypothesis
+# Hypothesis
 
 If plants are given chemicals containing nutrients in their water, then they will grow taller because the chemicals used contain a variety of nutrients required for growth, including potassium and magnesium.
 
-## Variables
+# Variables
 
 **Independent**
 
@@ -54,14 +56,11 @@ Height of leek plant
 **Controlled**
 
 1. Amount of water given
-
 2. Same plant batch
-
 3. Same size pots and soil
-
 4. Concentration of chemicals added
 
-## Safety
+# Safety
 
 Spills of chemicals
 
@@ -95,7 +94,7 @@ Sunburn
 
 Wear a hat and use SPF 50+ Sunscreen when outside.
 
-## Equipment
+# Equipment
 
 5 leek seedlings (around the 15cm mark)
 
@@ -129,7 +128,7 @@ Tupperware Containers (rounded)
 
 500mL Pyrex Measuring Jug
 
-## Method
+# Method
 
 To prepare for the experiment, fill up the tupperware pots with the chemicals, tea, salt, sugar and coffee. Place these tupperware containers, notebook, ruler and pencil in the large Sistema container.
 

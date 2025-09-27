@@ -3,6 +3,8 @@ comments: true
 title: Emu Letters - Sidney
 draft: true
 tags: [SidneyL, KidsCollab/Persuasive]
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
 
 Dear 4L,
@@ -26,4 +28,5 @@ That is my brother Bobby. I really want you to bring him down so that I can play
 Also, I am going to blow up if you put one more drop of hand sanitizer on me, as you know that it is flammable. Please stop doing that. I wish I could be in 4H or 4B but do you know what? I’ll give you another chance. (If you change)
 
 Your annoyed but forgiving friend,
+
 Bob the Emu

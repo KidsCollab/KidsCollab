@@ -3,6 +3,8 @@ comments: true
 title: The Terror of Olympus
 draft: false
 tags: [NathanW, KidsCollab/Fiction]
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
 
 “Take this” thundered Zeus “you are forbidden to open it”.  Zeus had handed Sidney a box who passed it to Nathan and he put it in his backpack. ”Time to go” said Thomas. “Hermes, guide these people down”. “We very much appreciate your help” said Adam. The four had climbed Mount Olympus to meet the gods. Hermes appeared and led them a quarter down. “I cannot go over my border”  “goodbye”. Hermes then disappeared.

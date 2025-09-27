@@ -2,6 +2,8 @@
 title: AliasRedirects
 tags:
   - plugin/emitter
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:22 pm
 ---
 
 This plugin emits HTML redirect pages for aliases and permalinks defined in the frontmatter of content files.
@@ -30,7 +32,7 @@ The emitter supports the following aliases:
 
 This plugin has no configuration options.
 
-## API
+# API
 
 - Category: Emitter
 - Function name: `Plugin.AliasRedirects()`.

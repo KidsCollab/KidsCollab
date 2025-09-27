@@ -2,6 +2,8 @@
 title: OxHugoFlavoredMarkdown
 tags:
   - plugin/transformer
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:22 pm
 ---
 
 This plugin provides support for [ox-hugo](https://github.com/kaushalmodi/ox-hugo) compatibility. See [[OxHugo compatibility]] for more information.
@@ -22,7 +24,7 @@ This plugin accepts the following configuration options:
 >
 > If you use `toml` frontmatter, make sure to configure the [[Frontmatter]] plugin accordingly. See [[OxHugo compatibility]] for an example.
 
-## API
+# API
 
 - Category: Transformer
 - Function name: `Plugin.OxHugoFlavoredMarkdown()`.

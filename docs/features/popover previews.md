@@ -1,5 +1,7 @@
 ---
-title: Popover Previews
+title: popover previews
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:23 pm
 ---
 
 Like Wikipedia, when you hover over a link in Quartz, there is a popup of a page preview that you can scroll to see the entire content. Links to headers will also scroll the popup to show that specific header in view.
@@ -10,7 +12,7 @@ When [[creating components|creating your own components]], you can include this 
 
 Similar to Obsidian, [[quartz layout.png|images referenced using wikilinks]] can also be viewed as popups.
 
-## Configuration
+# Configuration
 
 - Remove popovers: set the `enablePopovers` field in `quartz.config.ts` to be `false`.
 - Style: `quartz/components/styles/popover.scss`

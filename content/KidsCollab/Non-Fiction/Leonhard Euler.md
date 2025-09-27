@@ -3,6 +3,8 @@ title: Leonhard Euler
 draft: false
 tags: [AdamP, KidsCollab/Non-Fiction]
 comments: true
+creation_date: Thursday, June 5th 2025, 10:56:16 pm
+last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
 
 Leonhard Euler was a profound mathematician. Born and raised in Basel, he was born in 1707 and had 4 siblings. His parents were Paul Euler, who was also a mathematician and Marguerite Brucker. His siblings’ names were Johann Heinrich Euler, Anna Maria Euler, Maria Magdalena Euler and Johann Heinrich. He was destined to be a rural clergyman, but showed skill in a family of mathematicians. He took up the subject mathematics to study at the University of Basel. He studied with Johan Benoulli, and earned a masters while still in his teens.
