@@ -18,13 +18,13 @@ KidsCollab is a creative platform built by students, for students. We write stor
 
 ## What's here
 
-### KidsCollab
+### 📖 KidsCollab
 Fiction, non-fiction, poetry, speeches, diaries and more — a growing library of writing from students across every genre.
-→ [[KidsCollab/KidsCollab|Browse KidsCollab]]
+→ [Browse KidsCollab](/KidsCollab)
 
 ### KidsPerplex
 Games and activities invented by school-aged students, including Chrome Music Labs songs and interactive creations.
-→ [[KidsPerplex/Chrome-Music-Labs-Music/Nostalgia-Draft|Browse KidsPerplex]]
+→ [Browse KidsPerplex](/KidsPerplex)
 
 ### QuizCollab
 Think you know it all? Test yourself with fun quizzes ranging from easy to obscure — try as many times as you like.
@@ -32,7 +32,7 @@ Think you know it all? Test yourself with fun quizzes ranging from easy to obscu
 
 ### ColLabs
 Collaborative projects and DIY articles. Limited content for now, but open for submissions.
-→ [[ColLabs/ColLabs|Browse ColLabs]]
+→ [Browse ColLabs](/ColLabs)
 
 ---
 
@@ -40,8 +40,8 @@ Collaborative projects and DIY articles. Limited content for now, but open for s
 
 We're always open to new submissions. Got a story, poem, report, or project?
 
-📧 Email us at [kidscollabaus@gmail.com](mailto:kidscollabaus@gmail.com) or use the [submission form](https://docs.google.com/forms/d/e/1FAIpQLSfsDvKfpNUXUs6h3tyTgPMhFLOixsAuV81mPo9T1VH7yqxiQg/viewform?usp=sf_link).
+Email us at [kidscollabaus@gmail.com](mailto:kidscollabaus@gmail.com) or use the [submission form](https://docs.google.com/forms/d/e/1FAIpQLSfsDvKfpNUXUs6h3tyTgPMhFLOixsAuV81mPo9T1VH7yqxiQg/viewform?usp=sf_link).
 
 ---
 
-*KidsCollab v0.1.0 β · © KidsCollab 2020–2026*
+*KidsCollab v0.0.5 β · © KidsCollab 2020–2026*
