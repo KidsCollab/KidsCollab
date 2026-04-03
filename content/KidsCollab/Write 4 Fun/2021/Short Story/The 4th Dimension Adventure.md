@@ -4,9 +4,8 @@ title: The 4th Dimension Adventure
 draft: false
 tags: [AlvinC, KidsCollab/Write4Fun]
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
-last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
+last_edit_date: Saturday, September 27th 2025, 8:45:45 pm
 ---
-
 
 Our neighbours were about as average as a neighbour can be. They wake up, walk their dog, come home, and cook breakfast. Our family would also be waking up to the sounds of birds chirping and like our neighbours, walk our dog and come home to cook breakfast. This would be the routine for about any other day, until yesterday, where our neighbours, turned into ones with mystery after I found out they kept interesting things.
 
