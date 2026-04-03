@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
       provider: 'giscus',
       options: {
         // from data-repo
-        repo: 'dabluepiano/kidscollab',
+        repo: 'kidscollab/kidscollab',
         // from data-repo-id
         repoId: 'R_kgDONypmLQ',
         //from data-category
