@@ -1,12 +1,13 @@
 ---
 title: Sidney L - 2021-22 School Holidays
 draft: false
-tags:
-- SidneyL
-- KidsCollab/Non-Fiction
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
+tags:
+  - section/KidsCollab/Non-Fiction/2021-22 School Holidays
+  - author/SidneyL
 ---
 Wow What a holiday! There were ups and downs throughout. I did many things in the holiday. And learnt many things too.
 

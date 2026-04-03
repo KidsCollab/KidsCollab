@@ -1,12 +1,13 @@
 ---
 title: Marcus C - My Year in 2020
 draft: false
-tags:
-- MarcusC
-- KidsCollab/Speeches
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
+tags:
+  - section/KidsCollab/Speeches/2020
+  - author/MarcusC
 ---
 2020 what a very unusual year for all of us from the black summer fire to the dreadful coronavirus, a short name for the COVID-19.
 

@@ -1,12 +1,13 @@
 ---
 title: Natural Teror
 draft: false
-tags:
-- NathanW
-- KidsCollab/Write4Fun
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:40:50 pm
+tags:
+  - section/KidsCollab/Write 4 Fun/2021/Poetry
+  - author/NathanW
 ---
 Light bursts through the trees
 

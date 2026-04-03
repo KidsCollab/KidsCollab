@@ -1,12 +1,13 @@
 ---
 title: If Looks Could Kill
 draft: false
-tags:
-- NathanW
-- KidsCollab/Fiction
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
+tags:
+  - section/KidsCollab/Fiction
+  - author/NathanW
 ---
 I stand with debris all around me. Beyond my vision there is more. A glare was all it took. It claimed the lives of many. I will tell it all.
 

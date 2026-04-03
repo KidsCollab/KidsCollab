@@ -1,12 +1,13 @@
 ---
 title: Tasnova C - My Year in 2020
 draft: false
-tags:
-- TasnovaC
-- KidsCollab/Speeches
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
+tags:
+  - section/KidsCollab/Speeches/2020
+  - author/TasnovaC
 ---
 Fire blazes across the land, putting us in an endless heatwave; killing native Australian animals and destroying forests. Droughts and floods start to increase in Australia thanks to global warming. A deadly virus sweeps through the world and turns into a pandemic, putting everyone into lockdown. We have run out of toilet paper, surgical masks, food, and all hygiene appliances. Everything is cancelled. 2020 has been a chaotic year and was not even close to finishing the year. 2020 has been different, and yet I know it will stay in my memory for the rest of my life.
 

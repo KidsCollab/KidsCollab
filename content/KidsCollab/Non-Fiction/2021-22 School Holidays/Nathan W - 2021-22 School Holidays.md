@@ -1,12 +1,13 @@
 ---
 title: Nathan W - 2021-22 School Holidays
 draft: false
-tags:
-- NathanW
-- KidsCollab/Non-Fiction
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
+tags:
+  - section/KidsCollab/Non-Fiction/2021-22 School Holidays
+  - author/NathanW
 ---
 Yes, we’re going, no, we’re not,
 

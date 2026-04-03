@@ -1,12 +1,13 @@
 ---
 title: A Hole in the Fence
 draft: false
-tags:
-- AdamP
-- KidsCollab/Fiction
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
+tags:
+  - section/KidsCollab/Fiction
+  - author/AdamP
 ---
 Looking through the crack in the old, wooden fence, the boy watched horrendously as the lava slowly edged towards his property on the edge of Napoli. Vesuvius had erupted once more. It had been going on for the past two days, with chaos erupting all over Italy.  So far, only a field of pigs had been destroyed, but the outskirts were the greatest risk.
 

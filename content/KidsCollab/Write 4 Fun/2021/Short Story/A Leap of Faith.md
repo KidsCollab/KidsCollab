@@ -1,12 +1,13 @@
 ---
 title: A Leap of Faith
 draft: false
-tags:
-- ThomasM
-- KidsCollab/Write4Fun
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:45:40 pm
+tags:
+  - section/KidsCollab/Write 4 Fun/2021/Short Story
+  - author/ThomasM
 ---
 Glaring down on me, the ever so large ball of fire known as our sun gave us the hottest recorded day of the decades. On the torn seat of old Volvo bus, I could feel a small wire prod me in the back, harder each time we drove over a divot in the poorly constructed road. As I wearily gazed out of the window, shrivelled and frayed bushes casually rolled along the dusty surface. I allowed myself to doze of for 1 minute, which became 2, then 5 and so on.
 

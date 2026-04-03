@@ -1,12 +1,13 @@
 ---
 title: Thomas M - My Year in 2020
 draft: false
-tags:
-- ThomasM
-- KidsCollab/Speeches
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
+tags:
+  - section/KidsCollab/Speeches/2020
+  - author/ThomasM
 ---
 Everybody was excited for the start of a new year, a new decade, and a new opportunity for life. As well as a year without the severe bushfires ravaging rural town houses (this wish was immediately destroyed and thrown out the window). If this crazy beginning was not enough, some floods, a major drought and a virus that spread globally, tragically taking loved ones from families, eventually causing havoc in the toilet paper isles across Australia, topped off the unusual beginning to the year. This ‘different’ year will surely go down in the history book of odd years. This short summary will fill you in on all of the details (including the impossible fine print).
 

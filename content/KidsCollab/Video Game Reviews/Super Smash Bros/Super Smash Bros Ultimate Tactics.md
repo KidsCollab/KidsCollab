@@ -1,12 +1,13 @@
 ---
 title: Super Smash Bros Ultimate Tactics
 draft: false
-tags:
-- NathanW
-- KidsCollab/Video-Game-Reviews
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
+tags:
+  - section/KidsCollab/Video Game Reviews/Super Smash Bros
+  - author/NathanW
 ---
 Here are some of the best characters to play in Super Smash Bros, ranked in terms of power and easiness.
 

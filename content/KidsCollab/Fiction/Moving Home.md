@@ -1,12 +1,13 @@
 ---
 title: Moving Home
 draft: false
-tags:
-- NathanW
-- KidsCollab/Fiction
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
+tags:
+  - section/KidsCollab/Fiction
+  - author/NathanW
 ---
 Trevor groaned. Yes, said the squeaky voice inside his head, of course your home was on the back of a tortoise. You should have expected it! Because it was true, his home, the sturdy little shed that had endured countless storms and hurricanes, was now on the back of a giant tortoise, steadily moving across the landscape. Trevor groaned again. He was not athletic, and as long as his house was on the tortoise, he had to be on there too. And your food! said the squeaky voice. Trevor winced. Thanks for reminding me. Quickly, he scrambled to the shops purchasing armfuls of junk food, vegetation, and an umbrella - life on a giant tortoise would be tough.
 

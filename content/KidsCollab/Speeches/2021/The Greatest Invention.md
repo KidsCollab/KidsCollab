@@ -1,12 +1,13 @@
 ---
 title: The Greatest Invention
 draft: false
-tags:
-- NathanW
-- KidsCollab/Speeches
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
+tags:
+  - section/KidsCollab/Speeches/2021
+  - author/NathanW
 ---
 Inventions have taken us far, beyond the moon. , They have improved our quality of life with fridges, air conditioners and television being daily necessities. They give us not only what we need but what we want. Last year I realised the significance of little things, things that kept us safe like QR codes and hand sanitiser. However, it must be said the most popular and the greatest invention has to be….Toilet paper!
 

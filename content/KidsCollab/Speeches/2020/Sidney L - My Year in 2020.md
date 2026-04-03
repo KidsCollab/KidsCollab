@@ -1,12 +1,13 @@
 ---
 title: Sidney L - My Year in 2020
 draft: false
-tags:
-- SidneyL
-- KidsCollab/Speeches
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
+tags:
+  - section/KidsCollab/Speeches/2020
+  - author/SidneyL
 ---
 2020, the year that changed everything. Everything. Absolutely everything. 2020 was planned to be a phenomenal year. But as soon as I got my classes, bad news hit. It was predicted that I had to home school. I wondered what would happen.
 

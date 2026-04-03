@@ -1,15 +1,16 @@
 ---
 title: God, Gold and Glory
 draft: false
-tags:
-- DillonT
-- XanderO
-- AmelieW
-- AtharvaG
-- KidsCollab/Non-Fiction
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
+tags:
+  - section/KidsCollab/Non-Fiction
+  - author/DillonT
+  - author/XanderO
+  - author/AmelieW
+  - author/AtharvaG
 ---
 **Dillon**: (slowly) When the European explorers of the 1400s set out to conquer various parts of the world, they did so with three motives in mind:
 

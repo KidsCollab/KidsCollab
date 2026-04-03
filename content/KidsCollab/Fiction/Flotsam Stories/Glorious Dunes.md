@@ -1,12 +1,13 @@
 ---
 title: Glorious Dunes
 draft: false
-tags:
-- NathanW
-- KidsCollab/Fiction
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
+tags:
+  - section/KidsCollab/Fiction/Flotsam Stories
+  - author/NathanW
 ---
 Blue. Blue and repetitive. The only way to describe my old life. Back where the Organi ruled and we weren’t allowed to find anything out. And we knew nothing about ourselves. You wouldn’t have a family, more like a cluster. It was this way for every little Bacto. At least until the big dark shape appeared.
 

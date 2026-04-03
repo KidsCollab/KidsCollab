@@ -1,12 +1,13 @@
 ---
 title: Automobiles
 draft: false
-tags:
-- AlvinC
-- KidsCollab/Non-Fiction
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
+tags:
+  - section/KidsCollab/Non-Fiction
+  - author/AlvinC
 ---
 Automobile is over 100 years old, it was created by two brothers in France, promoting their business by racing the cars they made. Now there are many types of races, because both electric and fuelled cars can race! (With their own competitions of course, they both will have different requirements).
 

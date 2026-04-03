@@ -1,12 +1,13 @@
 ---
 title: Dog
 draft: true
-tags:
-- SidneyL
-- KidsCollab/Persuasive
+
 comments: false
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
+tags:
+  - section/KidsCollab/Persuasive
+  - author/SidneyL
 ---
 Hi Mum and Dad, I want a new pet dog because dogs can keep you company; you can use it as a stress reliever; you can exercise at the same time as the dog does.
 

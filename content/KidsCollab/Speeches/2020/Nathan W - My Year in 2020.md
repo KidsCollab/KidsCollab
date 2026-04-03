@@ -1,11 +1,12 @@
 ---
 title: Nathan W - My Year in 2020
 draft: false
-tags:
-- KidsCollab/Speeches
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
+tags:
+  - section/KidsCollab/Speeches/2020
 ---
 In 2019 I was collecting Pokémon cards. But this year I was on the hunt for toilet paper. New vocab, new diseases, new bikes and new ways of learning, 2020 has been an exhilarating and uncertain year.
 

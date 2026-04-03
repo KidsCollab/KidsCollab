@@ -1,12 +1,13 @@
 ---
 title: Razing
 draft: false
-tags:
-- NathanW
-- KidsCollab/Fiction
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
+tags:
+  - section/KidsCollab/Fiction
+  - author/NathanW
 ---
 He rises, his eyes sullen and blank. He reaches for a photo, crinkles creasing on his face. But when he touches the frame, his mind flashes like lightning.
 

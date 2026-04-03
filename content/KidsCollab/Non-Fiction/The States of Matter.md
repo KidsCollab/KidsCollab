@@ -1,13 +1,14 @@
 ---
 title: The States of Matter
 draft: false
-tags:
-- NathanW
-- SidneyL
-- KidsCollab/Non-Fiction
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
+tags:
+  - section/KidsCollab/Non-Fiction
+  - author/NathanW
+  - author/SidneyL
 ---
 Matter is what makes up everything. These include molecules, atoms and leptons. There are three types of matter; Solid, Liquid and Gas. A Solid cannot be compressed, it has its own shape and the particles are packed together tightly. They can not move freely but they can vibrate. Some solids can melt and expand when exposed to heat. They become harder when they are cool.
 

@@ -1,12 +1,13 @@
 ---
 title: Grandma's Attic
 draft: false
-tags:
-- AlvinL
-- KidsCollab/Write4Fun
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:45:41 pm
+tags:
+  - section/KidsCollab/Write 4 Fun/2021/Short Story
+  - author/AlvinL
 ---
 As I stepped down the steps, one by one, the creaks echoed across the stairway. When I reached the bottom of the steps, a loud creak welcomed me. The door was damaged with cracks in it. As I opened the door, a burst of cold air hit me.
 

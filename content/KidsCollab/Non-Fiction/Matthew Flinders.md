@@ -1,12 +1,13 @@
 ---
 title: Matthew Flinders
 draft: false
-tags:
-- NathanW
-- KidsCollab/Non-Fiction
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
+tags:
+  - section/KidsCollab/Non-Fiction
+  - author/NathanW
 ---
 Matthew Flinders was an English captain who was born on the 16th of March, 1774 and died on the 19th of July, 1814. Matthew was born in England and went to Cowley’s Charity in 1780 and moved to Reverend John Shinglar’s grammar school.
 

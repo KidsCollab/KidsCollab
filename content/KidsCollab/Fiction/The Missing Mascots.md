@@ -1,12 +1,13 @@
 ---
 title: The Missing Mascots
 draft: false
-tags:
-- NathanW
-- KidsCollab/Fiction
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
+tags:
+  - section/KidsCollab/Fiction
+  - author/NathanW
 ---
 Man, I hate virtual reality holograms. That is my first thought when I see several zoo animals wandering in our school. 2 roars,  2 snorts, and a growl echoes in my ears. A purring lioness, a brobdingnagian hippo, a fully tusked elephant - even a spotted cheetah prowls our school - how can it be real? But no, the animals are flesh and blood, and not some kind of stimulus cooked up by our teachers.Wait . . . no, I’m sure it cannot be. You see, our mascot, Emu Blue, roused up all of these equally bored mascots into our school.
 

@@ -1,12 +1,13 @@
 ---
 title: Grey City
 draft: false
-tags:
-- NathanW
-- KidsCollab/Fiction
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
+tags:
+  - section/KidsCollab/Fiction
+  - author/NathanW
 ---
 The dull tones of the classroom were getting to her. Grey streaks already ran through her hair, a result of mentoring those who could not see. She sat down on the plain wooden chair, rubbing her forehead - the government had not allocated any decor or art in the institute, as the users would not see them. It was the late hours of the school day, when her students were reading and improving their Braille skills.
 

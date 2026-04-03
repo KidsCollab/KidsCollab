@@ -1,12 +1,13 @@
 ---
 title: The Older I Get the Better
 draft: false
-tags:
-- NathanW
-- KidsCollab/Speeches
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
+tags:
+  - section/KidsCollab/Speeches/2019
+  - author/NathanW
 ---
 When I was 8 weeks old, my parents had to carry me around everywhere and I couldn’t walk or talk. At 8 months old I still couldn’t really walk or talk - but now at 8 years old look at me - I can both walk and talk. As you can see the older I get the better I am and that is why growing up is the greatest.
 

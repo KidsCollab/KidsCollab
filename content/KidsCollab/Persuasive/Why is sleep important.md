@@ -1,12 +1,13 @@
 ---
 title: Why is sleep important
 draft: false
-tags:
-- SidneyL
-- KidsCollab/Persuasive
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
+tags:
+  - section/KidsCollab/Persuasive
+  - author/SidneyL
 ---
 Zzzzzzzzzz! Zzzzzzzz! Every night you should find yourself sleeping anytime during the night. Experts say that sleeping is the most important thing of our life! Even more important than school! (Sorry teachers.) If you didn’t sleep, you would not be yourself. You would not of concentrated, got questions wrong you seriously already knew and you may not be attentive and social in class time. See, this is how important sleep is! Children in their school ages (9 – 13 years old) need 9-11 hours of sleep. They need way more sleep than adults because they learn new things every day. The information has to be stored in your brain so that you can refer to it later on. Keep reading to find out how important sleep is! (It really is important)
 

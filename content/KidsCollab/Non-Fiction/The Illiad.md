@@ -1,12 +1,13 @@
 ---
 title: The Illiad
 draft: false
-tags:
-- NathanW
-- KidsCollab/Non-Fiction
+
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
+tags:
+  - section/KidsCollab/Non-Fiction
+  - author/NathanW
 ---
 The Iliad is an epic, composed by Homer, a Greek poet, who is also famed  for writing the Odyssey. The  Iliad is known as it tells of events in the infamous Trojan War. Most people have to read the Iliad to understand the Odyssey.
 
