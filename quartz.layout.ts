@@ -12,11 +12,11 @@ export const sharedPageComponents: SharedLayout = {
         // from data-repo
         repo: 'dabluepiano/kidscollab',
         // from data-repo-id
-        repoId: 'R_kgDONnbHKw',
+        repoId: 'R_kgDONypmLQ',
         //from data-category
-        category: 'Announcements',
+        category: 'Ideas',
         //from data-category-id
-        categoryId: 'DIC_kwDONnbHK84Cl3wA',
+        categoryId: 'DIC_kwDONypmLc4Cmh3R',
       }
     }),
   ],
