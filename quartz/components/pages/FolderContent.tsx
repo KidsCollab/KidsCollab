@@ -31,6 +31,21 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     const folderSlug = stripSlashes(simplifySlug(fileData.slug!))
     const folderParts = folderSlug.split(path.posix.sep)
 
+    // If hideFolderContent is set in frontmatter, just render the page content and stop
+    const hideFolderContent = fileData.frontmatter?.hideFolderContent === true
+    if (hideFolderContent) {
+      const cssClasses: string[] = fileData.frontmatter?.cssclasses ?? []
+      const content =
+        (tree as Root).children.length === 0
+          ? fileData.description
+          : htmlToJsx(fileData.filePath!, tree)
+      return (
+        <div class="popover-hint">
+          <article class={cssClasses.join(" ")}>{content}</article>
+        </div>
+      )
+    }
+
     const allPagesInFolder: QuartzPluginData[] = []
     const allPagesInSubfolders: Map<FullSlug, QuartzPluginData[]> = new Map()
 

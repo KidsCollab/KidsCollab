@@ -1,6 +1,6 @@
 ---
 title: Notable People Project Speeches
-draft: true
+draft: false
 
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
