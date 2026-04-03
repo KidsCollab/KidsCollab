@@ -1,12 +1,13 @@
 ---
-comments: true
 title: The Greatest Invention
 draft: false
-tags: [NathanW, KidsCollab/Speeches]
+tags:
+- NathanW
+- KidsCollab/Speeches
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 Inventions have taken us far, beyond the moon. , They have improved our quality of life with fridges, air conditioners and television being daily necessities. They give us not only what we need but what we want. Last year I realised the significance of little things, things that kept us safe like QR codes and hand sanitiser. However, it must be said the most popular and the greatest invention has to be….Toilet paper!
 
 Humans have always needed to wipe their bottoms somehow, stone age people most likely used the available rocks or moss and ancient China employed bamboo sticks. Not exactly ideal for comfort. Ancient Romans sat in a local toilet together and shared sponges on sticks called terrariums to clean their mess. You heard right, the sticks were reused for different people. So, the world before toilet paper was pretty messy. However, when toilet paper became popular, it established a new age of luxury.

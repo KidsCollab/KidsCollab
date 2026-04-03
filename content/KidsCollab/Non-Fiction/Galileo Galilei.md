@@ -1,12 +1,13 @@
 ---
 title: Galileo Galilei
 draft: false
-tags: [NathanW, KidsCollab/Non-Fiction]
+tags:
+- NathanW
+- KidsCollab/Non-Fiction
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 Galileo Di Vincenzo Bonaulti de Galilei was an iconic Italian physicist and astronomer. Commonly known as a polymath, he was named father of observational astronomy, the father of modern physics, the father of scientific method and the father modern science. During his notable life( 15 February 1564 - 8 January 1642) he did many amazing things.
 
 He made:

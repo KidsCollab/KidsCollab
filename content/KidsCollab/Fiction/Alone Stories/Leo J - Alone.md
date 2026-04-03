@@ -1,12 +1,13 @@
 ---
-comments: true
 title: Leo J - Alone
 draft: false
-tags: [LeoJ, KidsCollab/Fiction]
+tags:
+- LeoJ
+- KidsCollab/Fiction
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
-
 The voice over the loud speaker interrupted my nervous thoughts. ‘Ladies and gentleman, this train terminates at Park Lane. It will be our last stop. I held on tightly as the train pulled up suddenly to the station. I look at my watch – 2:34 am. Swinging my bag over my shoulder, I stood in front of smooth double glass doors, glass door opens my, it makes my whole-body goose bumps.
 
 In that street there is nobody which makes me way spookier than usual at night. ‘Step, step, step’ While I was walking I notice something was following me by making quiet sound. I noticed as breathes sound, it was not animal breathes. It was a human.

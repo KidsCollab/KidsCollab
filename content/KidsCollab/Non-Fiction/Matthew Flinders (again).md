@@ -1,12 +1,12 @@
 ---
 title: Matthew Flinders (again)
 draft: false
-tags: [KidsCollab/Non-Fiction]
+tags:
+- KidsCollab/Non-Fiction
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 Matthew Flinders was an English captain who was born on the 16th of March, 1774 and died on the 19th of July, 1814. Matthew was born in England and went to Cowley’s Charity in 1780 and moved to Reverend John Shinglar’s grammar school.
 
 His family consists of his wife, Ann Chappelle and his daughter, Anne. He worked as a  Royal Navy Captain and explored Australia in 3 different voyages ( 1791-1810). On the first voyage he went to Port Jackson in 1795 on the HMS reliance and became a navigator and soon made good friends with George Bass who was the ship’s surgeon.

@@ -1,12 +1,13 @@
 ---
-comments: true
 title: Sidney L - My Year in 2020
 draft: false
-tags: [SidneyL, KidsCollab/Speeches]
+tags:
+- SidneyL
+- KidsCollab/Speeches
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 2020, the year that changed everything. Everything. Absolutely everything. 2020 was planned to be a phenomenal year. But as soon as I got my classes, bad news hit. It was predicted that I had to home school. I wondered what would happen.
 
 It was what reversed our world, the economy, and our lifestyle. The unprecedented COVID-19 pandemic. It has troublesomely affected me in many ways, like the homeschooling, at first it was dreadful and later I found out the good sides of it. The negative things were that I couldn’t see my friends. I was yearning to even catch a glimpse of them. Every day just dragged on like as if it was like forever. But things dramatically changed. I could go back to school again! But there were still a few changes, like I had to bring my drink bottle every time I had to go somewhere and sanitize too. Despite all the changes, I was very grateful for what had happened.

@@ -1,12 +1,13 @@
 ---
 title: Marcus C - Gambia Information Report
 draft: false
-tags: [MarcusC, KidsCollab/Non-Fiction]
+tags:
+- MarcusC
+- KidsCollab/Non-Fiction
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 # Introduction
 
 The Gambia is a country named after the Gambian River with a population of 2.348 million. Their currency is the Gambian Dalasi, the Gambian flag was designed by L. Thomasi and the middle strip of blue represents the Gambian river.

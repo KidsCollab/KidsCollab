@@ -1,12 +1,13 @@
 ---
-comments: true
-title: "Things I Can't Live Without"
+title: Things I Can't Live Without
 draft: false
-tags: [NathanW, KidsCollab/Speeches]
+tags:
+- NathanW
+- KidsCollab/Speeches
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 Things I Can’t Live Without . . .
 
 Ah, Australian life! In 2019-2020, bushfires wreaked havoc across the country. Then, a worldwide pandemic forced everyone into lockdown. This year we have been subject to massive floods. With all these tragedies going on, we can easily focus on all the negatives, but hardship and suffering can provide silver linings and lead us to recognise things we can’t live without. My speech will focus on 3 seemingly obscure things: bees, shortness and dying.

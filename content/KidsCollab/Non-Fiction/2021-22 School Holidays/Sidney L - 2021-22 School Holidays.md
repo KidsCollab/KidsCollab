@@ -1,12 +1,13 @@
 ---
 title: Sidney L - 2021-22 School Holidays
 draft: false
-tags: [SidneyL, KidsCollab/Non-Fiction]
+tags:
+- SidneyL
+- KidsCollab/Non-Fiction
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
-
 Wow What a holiday! There were ups and downs throughout. I did many things in the holiday. And learnt many things too.
 
 First, I went camping to South West Rocks with another family from the school. It was fun. We camped and stayed at South West Rocks NRMA Holiday Park and went to Nambucca Heads on the way. We were tired when we got back home, but it was really fun. We upgraded our website/company called KidsCollab and started a magazine, a branch of KidsCollab. I also did lots and lots more of Selective School Preparations and it was really tiring and mind draining.

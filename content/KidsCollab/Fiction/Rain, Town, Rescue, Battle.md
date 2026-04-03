@@ -1,12 +1,13 @@
 ---
-comments: true
 title: Rain, Town, Rescue, Battle
 draft: false
-tags: [Unknown, KidsCollab/Fiction]
+tags:
+- Unknown
+- KidsCollab/Fiction
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
-
 <center><strong>Prologue</strong></center>
 
 The winds were howling. Wind was driving the rain sideways in sheets, drenching anything that came within reach. Thunder and lightning lit up the sky and provided the only auditory respite from the constant rain. This storm was one of a kind. This magnitude had never been seen before in living memory. It battered the coast of Norway, littering the towns and villages with leaves, wood and dirt. It had raged on for five days now, and showed no signs of stopping. During the storm, a ship was sailing up the  North Sea. It was a battleship, ready for war, filled with warriors from all of Saxony and Prussia. Their goal? To destroy Norway.

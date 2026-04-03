@@ -1,12 +1,13 @@
 ---
 title: Effect of Household Chemicals on Leek Growth
 draft: false
-tags: [AdamP, KidsCollab/Non-Fiction]
+tags:
+- AdamP
+- KidsCollab/Non-Fiction
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 # Background Information
 
 Plants are the basis of the food chain and are important to our world. Their growth has been very important to monitor and many chemicals have been developed to help this process. This experiment will examine the effects of common household chemicals on the growth of plants. Due to the importance of plants, this experiment will be useful in determining new ways to help plants grow.

@@ -1,13 +1,13 @@
 ---
-comments: true
-title: "A Monster's Identity"
+title: A Monster's Identity
 draft: false
-tags: [NathanW, KidsCollab/Fiction]
+tags:
+- NathanW
+- KidsCollab/Fiction
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
-
-
 <i>This Piece is a Fanfic of the book A Monster Calls by Patrick Ness, and follows on from a few weeks after the events of the book.</i>
 
 He couldn’t forget the monster. His breath, coming heavily into his pillow, shook his body as he thought. That monster, with the cracking limbs, the gnarled body, and those eyes, those eyes that seemed so, so familiar, boring into his mind like the Conor had known the monster before it had come walking. Like he had known him forever. But it couldn’t be. The monster, the yew tree, had told him that it was eternal, alive for as long as injustice persisted. He believed it. The monster thrummed, exuded, vibrated life, like it and life itself were friends. Conor wondered how the tree did it. How it lived, how it survived, in a world plagued with death. How could it stay in a world where it stood exempt from humanity, stood aloof from the world? That was what, Conor realised, made it a monster, made it not human.

@@ -1,13 +1,13 @@
 ---
-comments: true
 title: A Reckless Rodeo
 draft: false
-tags: [AdamP, KidsCollab/Fiction]
+tags:
+- AdamP
+- KidsCollab/Fiction
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
-
-
 ‘And the list of compulsory classes is as follows,’ the teacher said, ‘English, Maths, Science, History and Agriculture.’ Albert raised his hand silently amidst the announcement.
 
 ‘Why do we have to do Agriculture in Year 7?’ he groans.

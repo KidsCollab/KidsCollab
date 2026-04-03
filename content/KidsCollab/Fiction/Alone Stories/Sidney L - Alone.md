@@ -1,12 +1,13 @@
 ---
-comments: true
 title: Sidney L - Alone
 draft: false
-tags: [SidneyL, KidsCollab/Fiction]
+tags:
+- SidneyL
+- KidsCollab/Fiction
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
-
 The voice over the loud speaker interrupted by nervous thoughts. ‘Ladies and gentlemen, this train terminates at Park Lane. It will be our last stop.’ I held on tightly as the train pulled up suddenly to the station. I looked at my watch – 2:34 am. Swinging my bag over my shoulder, I stood in front of the smooth double glass doors, waiting for them to open.
 
 I stepped out cautiously, my eyes darting around already freaked on the fact that I had to walk down Park Lane to get to my house at the end. I walked slowly, trembling up the stairs to ground level and I saw those all-too-familiar shops that I had always walked past but only ever in the daytime.

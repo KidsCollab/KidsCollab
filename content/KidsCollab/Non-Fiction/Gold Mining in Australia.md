@@ -1,12 +1,13 @@
 ---
 title: Gold Mining in Australia
 draft: false
-tags: [NathanW, KidsCollab/Non-Fiction]
+tags:
+- NathanW
+- KidsCollab/Non-Fiction
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 Australia is a country where its past events deeply make their mark in the future. One of these major events is the gold mining industry. It was a pivotal point in the growth of population and democracy. I will tell you about the impact it had, what happened and why it affected the our future.
 
 In the early 1850s, after Edward Hargraves found that piece of gold, people flooded boats to Australia, hoping to become rich. This was right after the California gold rush, and the New South Wales government advertised its gold to have a rise economically and it worked. Another bonus was that once people got there, they often didn’t have enough money to get back home thus a rise in population. It also made Australia a recognised country in the map. In fact 500,000 immigrants came to Australia to try and claim gold. Majority of the prospectors were from Great Britain but diggers also hailed from Poland, Asia and even Germany! Peter Luck in his book Australian Icons described the flight of the Eureka flag as ‘the most famous 15 minutes in Australian history’. Diggers had become tired of the bills forced upon them to be able to dig and had decided to revolt. The heavy rules meant that diggers were throwing away a their lives for a tiny chance at a fortune. Prospectors had to pay for a costly licence to be allowed to dig and shovels, as well as the travel fare to get there. So the diggers got together on the 3 of December 1854 and designed their own flag, which now resides in the Art Gallery of Ballarat. They then planted the flag in Ballarat and burned their licences. This alerted the government, who sent troops to stop them. Then what is now called the Battle of the Eureka Stockade began. It was led by Peter Laylor, who battled for the diggers until the 15 minute battle ended and went into hiding. The death toll was not recorded although it is believed there were 27 casualties overall, 22 prospectors and 5 of the troops.

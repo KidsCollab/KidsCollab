@@ -1,13 +1,13 @@
 ---
-comments: true
 title: Desperation
 draft: false
-tags: [NathanW, KidsCollab/Fiction]
+tags:
+- NathanW
+- KidsCollab/Fiction
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
-
-
 “Next!’
 
 He shuffles forward, his army cap drawn low over his face, hiding his eyes. He briefly tilts his head towards the registrar and when he speaks his voice the scraping of rocks on the road.

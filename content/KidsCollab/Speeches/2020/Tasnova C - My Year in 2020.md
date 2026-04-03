@@ -1,12 +1,13 @@
 ---
-comments: true
 title: Tasnova C - My Year in 2020
 draft: false
-tags: [TasnovaC, KidsCollab/Speeches]
+tags:
+- TasnovaC
+- KidsCollab/Speeches
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 Fire blazes across the land, putting us in an endless heatwave; killing native Australian animals and destroying forests. Droughts and floods start to increase in Australia thanks to global warming. A deadly virus sweeps through the world and turns into a pandemic, putting everyone into lockdown. We have run out of toilet paper, surgical masks, food, and all hygiene appliances. Everything is cancelled. 2020 has been a chaotic year and was not even close to finishing the year. 2020 has been different, and yet I know it will stay in my memory for the rest of my life.
 
 In Australia, the bush fires continued over from 2019 and brought catastrophe to the bushlands that make up so much of Australia. The bushfires continued all the way till March and destroyed the homes of millions of native species. Millions of plants were burnt to the ground taking with them even more humans and animals. This is all because of global warming, which every one of us caused. We were affected by the huge heatwave and the loss of so many Australians and animals.

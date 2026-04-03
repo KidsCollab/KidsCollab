@@ -1,12 +1,17 @@
 ---
-comments: true
 title: The Zodiac Race - A Drama Script
 draft: false
-tags: [NathanW, ChristianC, DillonT, AlexC, NicholasL, KidsCollab/Fiction]
+tags:
+- NathanW
+- ChristianC
+- DillonT
+- AlexC
+- NicholasL
+- KidsCollab/Fiction
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
-
 Characters:
 
 Dragon, Rabbit/Bunny, Snake, Rooster and Dog

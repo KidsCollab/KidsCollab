@@ -1,12 +1,13 @@
 ---
-comments: true
 title: The Older I Get the Better
 draft: false
-tags: [NathanW, KidsCollab/Speeches]
+tags:
+- NathanW
+- KidsCollab/Speeches
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 When I was 8 weeks old, my parents had to carry me around everywhere and I couldn’t walk or talk. At 8 months old I still couldn’t really walk or talk - but now at 8 years old look at me - I can both walk and talk. As you can see the older I get the better I am and that is why growing up is the greatest.
 
 Firstly being older means being able to work. Most people think of work as a bad thing, but if you have a job then you get paid. We can earn money ourselves and buy whatever we want. For example you can have a real car that drives rather than just some pretend Hot Wheels. Not only can you buy objects, but you can buy experiences such as travelling to another part of the world . Earning money through work is one reason why growing up is the greatest.

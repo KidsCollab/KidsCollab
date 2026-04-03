@@ -1,12 +1,13 @@
 ---
 title: Godwit Information Report - Sidney L
 draft: false
-tags: [SidneyL, KidsCollab/Non-Fiction]
+tags:
+- SidneyL
+- KidsCollab/Non-Fiction
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 # Introduction
 
 Do you know what Godwits are? Well, they are a type of bird. There are 4 main species. They are the Black-Tailed Godwit (Limosa limosa), the Hudsonian Godwit (Limosa haemestica), Bar-Tailed Godwit (Limosa lapponica) and the Marbled Godwit (Limosa fedoa). The family of bird that this species of bird belongs to is limosa.

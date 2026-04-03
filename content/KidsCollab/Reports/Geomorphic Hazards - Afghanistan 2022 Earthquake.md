@@ -1,12 +1,13 @@
 ---
-comments: true
 title: Geomorphic Hazards - Afghanistan 2022 Earthquake
 draft: false
-tags: [SidneyL, KidsCollab/Reports]
+tags:
+- SidneyL
+- KidsCollab/Reports
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 # Introduction
 
 On the 22nd of June 2022, an earthquake occurred in Afghanistan at about 1:24 am local time. The earthquake caused many issues not only in Afghanistan, but around the world. It affected people, places, and the environment. The precise Latitude and Longitude of the epicenter of the earthquake was: 33.029 degrees North, 69.514 degrees East. The magnitude of the earthquake was rated as 6.2Mw, which was violent and took place 47 kilometers southwest of Khost. In a broader map of where the earthquake took place, it took place in the northern Hemisphere and happened in summer. Afghanistan is situated on a top of several fault lines where the Indian and Eurasian plates meet.

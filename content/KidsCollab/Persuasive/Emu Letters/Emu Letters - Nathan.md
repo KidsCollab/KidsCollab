@@ -1,12 +1,13 @@
 ---
-comments: true
 title: Emu Letters - Nathan
 draft: true
-tags: [NathanW, KidsCollab/Persuasive]
+tags:
+- NathanW
+- KidsCollab/Persuasive
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 Dear 4L,
 
 I  thank you for your catering, giving me a daily massage in exchange for holding the door. But my concern is that  because of the massages I have now become obese! At night I try to move but instead I slump down, sand trickling from my belly. Maybe you could pick me up sometimes and play catch? You could even use me as a dumbbell! Just let me get some exercise ,okay?

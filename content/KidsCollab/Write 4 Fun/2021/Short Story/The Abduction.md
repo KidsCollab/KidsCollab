@@ -1,12 +1,13 @@
 ---
-comments: true
 title: The Abduction
 draft: false
-tags: [ScottH, KidsCollab/Write4Fun]
+tags:
+- ScottH
+- KidsCollab/Write4Fun
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:45:47 pm
 ---
-
 Ever since the mothership has placed abductors all over the Island things have been uneasy like people have been abducted at least twice a week. Although all the messages that are saying to stay at home people are marching through the streets screaming “Take us with you”. So far, the people who have been abducted but never came back include Dr. Slone, Abstrackt, Sunny, Hayseed and sunflower.
 
 Not only have people been taken but the aliens have dropped off a few people as well like Zyg and Choppy who are alien outlaws, Joey who his trying to make peace with humans, and countless trespassers who are always moving around the Island so no one can predict where the next battlefield will be. When I say battlefield, I mean that we are in a war now. The war started when Dr. Slone Got taken away by the mothership and while she is in there, she is sending alien technology that she can get her hands on. She has also sent the IO Guards pulse rifles.

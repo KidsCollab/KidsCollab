@@ -1,12 +1,13 @@
 ---
-comments: true
 title: Bartolomeo Cristofori
 draft: false
-tags: [SidneyL, KidsCollab/Speeches]
+tags:
+- SidneyL
+- KidsCollab/Speeches
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 Well, we all know of the melodious instrument, the piano. But does any one of us know who is the person who invented this instrument? In my opinion, the most significant person in history is Bartolomeo Cristofori.
 
 In instrumental design, Bartolomeo Cristofori is one of the most successful and influential individuals. The Italian instrument maker is regarded as the inventor of the piano, an instrument that now holds a central place in Western music. Since the middle of the 18th century, pianos have been featured in the works of many composers. Either to help them write music or as the instrument that the music was written for. There were hundreds and hundreds of composers that wrote for pianos, even today!

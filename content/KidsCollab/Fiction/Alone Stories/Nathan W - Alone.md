@@ -1,12 +1,13 @@
 ---
-comments: true
 title: Nathan W - Alone
 draft: false
-tags: [NathanW, KidsCollab/Fiction]
+tags:
+- NathanW
+- KidsCollab/Fiction
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
-
 The voice over the loudspeaker interrupted my nervous thoughts. “Ladies and gentlemen, this train terminates at Park Lane. It will be our last stop.” I looked at my watch – 2:43am. Swinging my bag over shoulder, I stood in front of the glass doors, waiting for them to open. The train halts with a loud hiss, and I let go of the pole, wishing the metal wasn’t such an uninviting surface. The strangers on the train join me as we walk on the clean tiled station. Too clean. Too quiet. I force myself to listen to our synchronised footsteps, and I give a start every time someone leaves. A cleaner. Disappearing down an alley. A nurse. Down the escalator. A businessman. Into the lift. And then . . .
 
 Me. Just me. Me and my footsteps that alone echo eerily down into the empty hall. I am relieved when I see the immaculate tiles come to an end until I look up. Nightmares run wild in this place. Shadows. Overpowering the light. Climbing up building walls, leaping into the night, and pouring back like liquid onto the ground. My hands turn white clenching my bag. I lean down, yes, my initials. Carved into the concrete. My stride increases, pumped – and then screeches to a stop. My initials meant I still had ten blocks to go. Ten more blocks of the shadows lurking, waiting to catch me.

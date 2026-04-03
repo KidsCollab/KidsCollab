@@ -1,13 +1,17 @@
 ---
-comments: true
 title: Paintball - A Drama Script
 draft: false
-tags: [NikhilS, XanderO, IvanH, TerryP, JackM, KidsCollab/Fiction]
+tags:
+- NikhilS
+- XanderO
+- IvanH
+- TerryP
+- JackM
+- KidsCollab/Fiction
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
-
-
 Characters:
 
 Uninterested - Xander

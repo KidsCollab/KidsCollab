@@ -1,12 +1,13 @@
 ---
-comments: true
 title: Van Gogh Alive Review
 draft: false
-tags: [NathanW, KidsCollab/Reports]
+tags:
+- NathanW
+- KidsCollab/Reports
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 # Introduction
 
 Van Gogh Alive is an immersive experience using modern day technology to glimpse into the past through the artworks of one of the most famous painters in history. Vincent Van Gogh (1853-1890) was a Dutch Post-Impressionist painter, who painted the famous Sunflowers and Starry Night.

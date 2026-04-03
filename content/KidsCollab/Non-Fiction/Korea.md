@@ -1,12 +1,13 @@
 ---
 title: Korea
 draft: false
-tags: [LeoJ, KidsCollab/Non-Fiction]
+tags:
+- LeoJ
+- KidsCollab/Non-Fiction
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 # Intro
 
 In Korea, there are lots of people which means there are lots of things to do. Here are some facts about South Korea.

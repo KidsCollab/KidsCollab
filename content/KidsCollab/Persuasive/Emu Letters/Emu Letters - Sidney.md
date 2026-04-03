@@ -1,12 +1,13 @@
 ---
-comments: true
 title: Emu Letters - Sidney
 draft: true
-tags: [SidneyL, KidsCollab/Persuasive]
+tags:
+- SidneyL
+- KidsCollab/Persuasive
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 Dear 4L,
 
 You are the worst of the worst class ever!

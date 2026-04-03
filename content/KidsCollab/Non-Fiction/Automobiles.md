@@ -1,12 +1,13 @@
 ---
 title: Automobiles
 draft: false
-tags: [AlvinC, KidsCollab/Non-Fiction]
+tags:
+- AlvinC
+- KidsCollab/Non-Fiction
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
-
 Automobile is over 100 years old, it was created by two brothers in France, promoting their business by racing the cars they made. Now there are many types of races, because both electric and fuelled cars can race! (With their own competitions of course, they both will have different requirements).
 
 The first TRUE race was in 1895, any competitions before that only had one competitor. The full distance of the race was 1,178 KM! (731.9753 miles for you imperial users). With the leading car only going 16.4 kph (10.2 mph)! Imagine how much hours it took them to finish the race! It was also very risky, as the cars back then could backfire any time they wanted!

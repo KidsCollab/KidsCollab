@@ -1,12 +1,13 @@
 ---
-comments: true
 title: A New Life in New Zealand
 draft: false
-tags: [NathanW, KidsCollab/Fiction]
+tags:
+- NathanW
+- KidsCollab/Fiction
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
-
 A 440 word composition
 
 1960s, New Zealand

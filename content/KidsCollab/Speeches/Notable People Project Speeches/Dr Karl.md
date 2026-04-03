@@ -1,12 +1,13 @@
 ---
-comments: true
 title: Dr Karl
 draft: false
-tags: [NathanW, KidsCollab/Speeches]
+tags:
+- NathanW
+- KidsCollab/Speeches
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 My name is Dr Karl Kruszelnicki, pronounced Crucial - Nit -Ski! That may seem like quite a mouthful, but at least I don’t make you worry about saying all 5 of my middle names. I’m a Member of the Order of Australia, but I was actually born in Sweden. How did that happen? Let me tell you the story.
 
 I was born on the 20th of March. I was born in 1948, following the Second World War in Sweden. My dad Ludwik and my mum Rina were actually survivors of the Holocaust, one of the most horrifying massacres of all time. When I was 2, my parents became scared of Russia, as they thought it was going to invade our country. So my parents prepared to migrate away from Sweden. Their ideal new home was the United States, but I fell ill with an ear infection just before we left. For my safety, my parents stayed in Sweden to board the next boat out. It was truly a blessing when that ship took us to Australia!

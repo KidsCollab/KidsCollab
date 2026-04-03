@@ -1,13 +1,13 @@
 ---
 title: Coastal Taipans
 draft: false
-tags: [FelixL, KidsCollab/Non-Fiction]
+tags:
+- FelixL
+- KidsCollab/Non-Fiction
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
-
 Coastal Taipan is a venomous snake. A snake is a reptile. Each animal has a scientific name. The scientific names can be hard to read, and you might think that it is not a word! The scientific name for this snake is called: Oxyuranus scutellatus.
 
 The Coastal Taipan's average length is 2 meters long with males growing a little bit faster than females. The Coastal Taipan has been recorded to grow over 3 meters long. The snout-vent length is 2260 millimeters (about twice the length of a baseball bat) – 226 centimeters. The size of Taipan is a medium to large snake. This means that the snake is not too small but in the medium size snakes. The eyes are large with an intense orange-brown iris and around the pupil. Did you know that there are 21 or even 23 rows of midbody scales? There are an amazing number of scales on each row: 220 – 250 scales or ventral.

@@ -1,12 +1,13 @@
 ---
 title: Teamwork Requires Collective Needs Above His Own
 draft: false
-tags: [NathanW, KidsCollab/Non-Fiction]
+tags:
+- NathanW
+- KidsCollab/Non-Fiction
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 One for all, and all for one. The legendary motto echoed by the Three Musketeers, copied into numerous cultures such as High School Musical and Keeper of The Lost Cities. It’s a quote that teams all over the world rally behind. Loyalty and a united front are central to their ideals because teamwork requires the individual privileges collective needs above his own.
 
 This means to be able to work together efficiently, people should change their ideas to form a collective, or group, decision. This moral is very useful in multiple areas. For example, governments show much more power when they all agree on something, with no dissenting views, meaning that trust is built in them and that they can act much faster. Society does not want to see any system in power that always argues. Conformity is certainly required in politics. Philippians 2:5-11 shows how Jesus humbled himself to save everyone else, prizing people’s needs far beyond his own. Another way that a collective mind helps is in the military to display authority. This method dates to the Old Testament in Judges, when Gideon intimidates the Midianites into surrender with only three hundred committed men. This is why Fascist belief is so Authoritarian, to be able to have such a united and decisive front.

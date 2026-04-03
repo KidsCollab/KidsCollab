@@ -1,12 +1,13 @@
 ---
-comments: true
 title: The Terror of Olympus
 draft: false
-tags: [NathanW, KidsCollab/Fiction]
+tags:
+- NathanW
+- KidsCollab/Fiction
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
-
 “Take this” thundered Zeus “you are forbidden to open it”.  Zeus had handed Sidney a box who passed it to Nathan and he put it in his backpack. ”Time to go” said Thomas. “Hermes, guide these people down”. “We very much appreciate your help” said Adam. The four had climbed Mount Olympus to meet the gods. Hermes appeared and led them a quarter down. “I cannot go over my border”  “goodbye”. Hermes then disappeared.
 
 “Are we there yet”? moaned Adam. He got no answer. The others were busy gathering sticks for the night. They had no food left. Thomas said whatever was in the box they would have to eat so when they lighted the fire they would put the box on it so the thing inside it would be burnt. Soon, the fire was ready and Sidney carefully placed the box on top of the fire. Suddenly, the box burst and the group expected to see a scorched chicken or some cooked food at least. But instead, they found a gigantic beast not at all harmed and much bigger when it stood.

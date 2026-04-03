@@ -1,12 +1,13 @@
 ---
-comments: true
 title: The Missing Mascots
 draft: false
-tags: [NathanW, KidsCollab/Fiction]
+tags:
+- NathanW
+- KidsCollab/Fiction
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
-
 Man, I hate virtual reality holograms. That is my first thought when I see several zoo animals wandering in our school. 2 roars,  2 snorts, and a growl echoes in my ears. A purring lioness, a brobdingnagian hippo, a fully tusked elephant - even a spotted cheetah prowls our school - how can it be real? But no, the animals are flesh and blood, and not some kind of stimulus cooked up by our teachers.Wait . . . no, I’m sure it cannot be. You see, our mascot, Emu Blue, roused up all of these equally bored mascots into our school.
 
 First, let me explain what Emu Blue does as a mascot. Emu Blue monitors all assemblies, looking for a really good class to take care of him after. He also oversees the award system, because his face is printed on elaborate Emu Blue, hence the name. He looks like a bushy emu with a streak of blue caressing his neck. However, as the whole of lockdown started, there is an absence of assemblies. Missing too, are Emu Blues in circulation, meaning Emu is completely relieved of his duties and has nothing to do but stand solitary, catching dust. Basically, it meant all he could smell the stench of his feet, all he could taste was his tongue caked in dust, all he could see was the lonely and empty void that was once called the administration office and all he could was absolute silence. It was as frustrating as teaching a penguin how to fly.

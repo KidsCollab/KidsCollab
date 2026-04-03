@@ -1,13 +1,13 @@
 ---
-comments: true
 title: An Apple a Day Keeps the Doctor Away
 draft: false
-tags: [SidneyL, KidsCollab/Speeches]
+tags:
+- SidneyL
+- KidsCollab/Speeches
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
-
 An Apple A Day Keeps The Doctor Away…
 
 What do you think An Apple a day keeps the doctors away means???

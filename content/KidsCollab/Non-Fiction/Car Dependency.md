@@ -1,12 +1,13 @@
 ---
 title: Car Dependency
 draft: false
-tags: [AdamP, KidsCollab/Non-Fiction]
+tags:
+- AdamP
+- KidsCollab/Non-Fiction
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
-
 By Adam P
 
 Ever since the invention of the motor car, our cities, towns and infrastructure have been designed with these vehicles in mind. Since the end of WWII, car ownership has exploded, pushing urban development to the fringes of cities.

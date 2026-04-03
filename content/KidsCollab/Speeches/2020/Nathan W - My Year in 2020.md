@@ -1,12 +1,12 @@
 ---
-comments: true
 title: Nathan W - My Year in 2020
 draft: false
-tags: [KidsCollab/Speeches]
+tags:
+- KidsCollab/Speeches
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 In 2019 I was collecting Pokémon cards. But this year I was on the hunt for toilet paper. New vocab, new diseases, new bikes and new ways of learning, 2020 has been an exhilarating and uncertain year.
 
 In 2020, I’ve been learning a lot of vocabulary. Who knew that social distancing was a thing? And don’t get me started on isolation or quarantine or pandemic or coronavirus. I’ve learnt countless new words and know what they mean. Covid 19 has taught me new vocabulary.

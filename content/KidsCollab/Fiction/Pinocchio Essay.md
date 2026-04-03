@@ -1,12 +1,13 @@
 ---
-comments: true
 title: Pinocchio Essay
 draft: false
-tags: [NathanW, KidsCollab/Fiction]
+tags:
+- NathanW
+- KidsCollab/Fiction
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
-
 Do texts teach life lessons?
 
 Displaying emotional and meaningful moments on the screen, movies are made to inspire and to leave a message with the viewer. In Guillermo Del Toro’s Pinocchio (2022) we see an immortal wooden puppet seeking acceptance going through fascist Italy with his grieving father trying to find him. Throughout Pinocchio, a moral we see is that death is part of what makes humans human through the view of Pinocchio and his interactions with Geppetto and the Wood Sprite and Death fairy. We also see how you don’t have to change to fit in, as the character of Pinocchio grows.

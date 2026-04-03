@@ -1,12 +1,13 @@
 ---
-comments: true
 title: Emails - A Monster Calls
 draft: false
-tags: [NathanW, KidsCollab/Persuasive]
+tags:
+- NathanW
+- KidsCollab/Persuasive
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 Dear Ms Generic Teacher,
 
 This letter details my concerns for my child regarding the novel that you are currently studying, A Monster Calls. My child is often quoting moments from the book and from these extracts, I fear that this book is inappropriate. This novel contains coarse language and exposes unnecessary explicit scenes in the novel. It also deals with death in a way that children at this age will not identify with, and children will not understand what he is thinking and why that is, leading to them corrupting the stories and making derogatory jokes that may well impact another child going through similar struggles. It also carries the burden of being confusing in the context of society today, and provides a different perspective to what pop culture says, leading it to be dismissed and the larger points ridiculed.

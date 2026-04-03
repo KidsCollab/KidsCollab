@@ -1,13 +1,13 @@
 ---
-comments: true
 title: Marcus C - My Year in 2020
 draft: false
-tags: [MarcusC, KidsCollab/Speeches]
+tags:
+- MarcusC
+- KidsCollab/Speeches
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
-
 2020 what a very unusual year for all of us from the black summer fire to the dreadful coronavirus, a short name for the COVID-19.
 
 The black summer fires were bad, some people have lost their homes and got wounded badly. Many Australian native animals are under threat and extinction in the fires.

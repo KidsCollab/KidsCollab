@@ -1,12 +1,13 @@
 ---
-comments: true
 title: Beyond Swamp Bottom
 draft: false
-tags: [AdamP, KidsCollab/Fiction]
+tags:
+- AdamP
+- KidsCollab/Fiction
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
-
 <strong>Inspired by the film 'Spirited Away' by Studio Ghibli</strong>
 
 Slowly pressing the brake, I ground to a halt and stopped at the dilapidated Swamp Bottom station. The platform was lit by a single lantern, casting a dim light on the moss-covered sign. The girl, the small hamster, even tinier bird and that black monster thing of hers alighted the train, bowing to me as they left. This left the train deserted, just the wooden handles that swayed side to side, and the mahogany seats were left empty.

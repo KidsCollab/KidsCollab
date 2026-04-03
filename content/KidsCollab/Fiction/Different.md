@@ -1,13 +1,13 @@
 ---
-comments: true
 title: Different
 draft: false
-tags: [NathanW, KidsCollab/Fiction]
+tags:
+- NathanW
+- KidsCollab/Fiction
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
-
-
 The ground looked nice today.
 
 Sure, it had a few nicks and smatterings of bird poop, but all in all, the ground was in good condition. At least better than how it was yesterday. And besides, even if the ground was destroyed, uprooted, it was better to look at the ground’s scars than to feel the daggers pointed at his back from other students. And even though the ground was monotonous, so were the whispers floating through the corridor, darting past his unsuspecting ear. ‘Is he really . .?’ ‘He looks so wrong’ ‘Why does he look like that?’ They didn’t really have the time to think up new material, anyway. Why would you spend time thinking about Gavin?

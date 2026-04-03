@@ -1,12 +1,13 @@
 ---
 title: Chinese Cindarella Chapter Study
 draft: false
-tags: [NathanW, KidsCollab/Non-Fiction]
+tags:
+- NathanW
+- KidsCollab/Non-Fiction
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 From the chapter of the same name in the book CHINESE CINDERELLA
 
 Why PLT should be studied

@@ -1,12 +1,13 @@
 ---
 title: Leonhard Euler
 draft: false
-tags: [AdamP, KidsCollab/Non-Fiction]
+tags:
+- AdamP
+- KidsCollab/Non-Fiction
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 Leonhard Euler was a profound mathematician. Born and raised in Basel, he was born in 1707 and had 4 siblings. His parents were Paul Euler, who was also a mathematician and Marguerite Brucker. His siblings’ names were Johann Heinrich Euler, Anna Maria Euler, Maria Magdalena Euler and Johann Heinrich. He was destined to be a rural clergyman, but showed skill in a family of mathematicians. He took up the subject mathematics to study at the University of Basel. He studied with Johan Benoulli, and earned a masters while still in his teens.
 
 Euler had many occupations, specialising in the areas of Mathematics and Physics. Along with these, he was a university lecturer, an author and an astronomer. When he was twenty, he was invited to the Russian Academy of Science in St. Petersburg. In 1741, he left Russia after 14 years with a blind right eye and moved to Berlin where he published a book titled ‘Introduction to the Analysis of the Infinite’. From 1755 onwards, he created many new techniques that are used today in modern mathematics. One of the new techniques is the symbol ‘Σ’ which is used in many equations. He studied lunar motion which has to do with the galactic movements of the Sun, Earth and Moon, which remains unsolved to this day. He studied number theory, which is the study of integers, both positive and negative.

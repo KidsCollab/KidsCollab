@@ -1,13 +1,13 @@
 ---
-comments: true
 title: Nay Farn
 draft: false
-tags: [NathanW, KidsCollab/Fiction]
+tags:
+- NathanW
+- KidsCollab/Fiction
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
-
-
 Before anything was made, a glistening single cell appeared. It lived isolated several days in the deserted land it had appeared. The cell established the land as Nay-Farn.
 
 Suddenly, a tree materialised in Nay-Farn. The tree had orange leaves, a sturdy trunk and a perfect home for the cell. There was going to be a big change in Nay-Farn -the cell could feel it.

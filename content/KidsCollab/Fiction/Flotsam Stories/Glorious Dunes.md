@@ -1,13 +1,13 @@
 ---
-comments: true
 title: Glorious Dunes
 draft: false
-tags: [NathanW, KidsCollab/Fiction]
+tags:
+- NathanW
+- KidsCollab/Fiction
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
-
-
 Blue. Blue and repetitive. The only way to describe my old life. Back where the Organi ruled and we weren’t allowed to find anything out. And we knew nothing about ourselves. You wouldn’t have a family, more like a cluster. It was this way for every little Bacto. At least until the big dark shape appeared.
 
 “Bactomam 6, you are assigned to the seahorses” Organi Regent’s rich voice cuts through the all voice bubbles. Our pods are lowered and since Regent doesn’t have the time (or the patience, says Bacto 46) to deal with us. I, as Bacto 26, extract the blood bubbles from the seahorses. The sensation of the air pockets float around and tickle, though I immediately hand them over. All Bactos in Bactomam 6, 16,26,36,46,56 and 66 have done their work. Nobody notices, of course. No one ever pays attention to the silly old Bactomams.

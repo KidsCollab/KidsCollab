@@ -1,12 +1,13 @@
 ---
 title: Leo J - Gambia Inormation Report
 draft: false
-tags: [LeoJ, KidsCollab/Non-Fiction]
+tags:
+- LeoJ
+- KidsCollab/Non-Fiction
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 # Introduction
 
 Do you know that Gambia is known for their farming? It is a major source of money for the country, also do you now that the Gambia is the predominantly a Muslim country?

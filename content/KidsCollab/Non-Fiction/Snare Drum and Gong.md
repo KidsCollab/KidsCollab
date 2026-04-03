@@ -1,12 +1,13 @@
 ---
 title: Snare Drum and Gong
 draft: false
-tags: [NathanW, KidsCollab/Non-Fiction]
+tags:
+- NathanW
+- KidsCollab/Non-Fiction
 comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:25 pm
 ---
-
 # <center>Snare Drum</center>
 
 The snare drum, which is set apart from other drums because of its counter hoop, does not have a certified creator and is mostly accredited to the 1600s with its origins in Germany. However, an interesting point to make is that apparently Leonardo Da Vinci had theorized strapping a screw like mechanism to the bottom of a kettle drum, not dissimilar to a modern snare drum.

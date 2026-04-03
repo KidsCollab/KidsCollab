@@ -1,12 +1,13 @@
 ---
-comments: true
 title: The Koopas
 draft: false
-tags: [JamieW, KidsCollab/Fiction]
+tags:
+- JamieW
+- KidsCollab/Fiction
+comments: true
 creation_date: Thursday, June 5th 2025, 10:56:16 pm
 last_edit_date: Saturday, September 27th 2025, 8:42:26 pm
 ---
-
 The Koopa’s are Bowser’s family,and they work together to fight Mario.
 
 Unfortunately,they have not been able to defeat him yet. Mario is too powerful!
