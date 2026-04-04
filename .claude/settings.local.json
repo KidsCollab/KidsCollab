@@ -3,7 +3,8 @@
     "allow": [
       "Bash(npx quartz:*)",
       "Bash(python:*)",
-      "Bash(npx ts-node:*)"
+      "Bash(npx ts-node:*)",
+      "Bash(npx claude-pets:*)"
     ]
   }
 }

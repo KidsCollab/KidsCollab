@@ -21,6 +21,7 @@ import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import StoryDatabaseFilter from "./StoryDatabaseFilter"
+import Stats from "./Stats"
 
 export {
   ArticleTitle,
@@ -46,4 +47,5 @@ export {
   Breadcrumbs,
   Comments,
   StoryDatabaseFilter,
+  Stats,
 }
