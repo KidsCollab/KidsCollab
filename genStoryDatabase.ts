@@ -15,7 +15,6 @@ interface Story {
 
 const CONTENT_DIR = path.join(__dirname, "content", "KidsCollab")
 const OUTPUT_FILE = path.join(CONTENT_DIR, "Story Database.md")
-const DATABASE_PAGE = "KidsCollab/Story Database"
 
 // Map categories to emojis
 const categoryEmojis = {
@@ -50,9 +49,8 @@ function scanStories(dir: string, category: string = "", collection: string = ""
       const newCollection = collection ? `${collection}/${file}` : file
       stories.push(...scanStories(fullPath, category, newCollection))
     } else if (file.endsWith(".md") && file !== "index.md") {
-      const relPathFromContent = path.relative(CONTENT_DIR, fullPath).replace(/\\/g, "/")
-      const relPath = path.join(DATABASE_PAGE, "..", relPathFromContent).replace(/\\/g, "/")
-      const metaKey = relPathFromContent
+      const relPath = path.relative(CONTENT_DIR, fullPath).replace(/\\/g, "/")
+      const metaKey = relPath
 
       let metadata = storyMetadata[metaKey]
       if (!metadata) {
@@ -145,7 +143,8 @@ Complete collection of all stories organized by category.
     const stories = allStories[category].sort((a, b) => a.title.localeCompare(b.title))
     for (const story of stories) {
       const tagsStr = story.tags.join(" ")
-      markdown += `| [${story.title}](${story.path}) | ${tagsStr} | ${story.type} |\n`
+      const encodedPath = story.path.replace(/ /g, "%20")
+      markdown += `| [${story.title}](${encodedPath}) | ${tagsStr} | ${story.type} |\n`
     }
 
     markdown += `\n`
