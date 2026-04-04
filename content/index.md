@@ -34,6 +34,11 @@ Think you know it all? Test yourself with fun quizzes that range from easy to wi
 Collaborative projects and DIY articles. We're just getting started, but the door's open for your ideas.
 → [Browse ColLabs](/ColLabs)
 
+
+### 📊 Site Statistics
+See how many pages, words, categories, and contributors we have.
+→ [[KidsCollab/stats|View Site Statistics]]
+
 ---
 
 ## Want to contribute?
@@ -44,4 +49,4 @@ Email us at [kidscollabaus@gmail.com](mailto:kidscollabaus@gmail.com) or use the
 
 ---
 
-*KidsCollab v0.0.5 β · © KidsCollab 2020–2026*
+*

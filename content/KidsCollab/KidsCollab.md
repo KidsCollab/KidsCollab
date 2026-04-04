@@ -9,6 +9,9 @@ tags:
   - section/KidsCollab
   - author/FolderNote
 ---
+
+📊 [[stats|Site Statistics]]
+
 %% Begin Waypoint %%
 
 - **[[Diaries]]**
