@@ -19,14 +19,14 @@ export default ((opts?: Options) => {
         style={{
           padding: "40px 20px",
           textAlign: "center",
-          fontFamily: "Lexend, sans-serif",
+          fontFamily: "var(--bodyFont)",
           background: "none", // Ensure no white background in footer
-          color: "#545351", // Dark gray text
+          color: "var(--darkgray)", // Dark gray text
         }}
       >
         <div
           style={{
-            color: "#545351", // Dark grey text color
+            color: "var(--darkgray)", // Dark grey text color
             padding: "0", // Remove any additional padding
             textAlign: "center",
             background: "none", // Remove background to prevent white box
@@ -91,7 +91,7 @@ export default ((opts?: Options) => {
               borderRadius: "50px",
               textDecoration: "none",
               fontSize: "16px",
-              fontFamily: "Lexend, sans-serif",
+              fontFamily: "var(--bodyFont)",
               boxShadow: "0 4px 8px rgba(0, 0, 0, 0.3)",
               transition: "background-color 0.3s, transform 0.3s ease-in-out",
               border: "none",
@@ -111,7 +111,7 @@ export default ((opts?: Options) => {
               borderRadius: "50px",
               textDecoration: "none",
               fontSize: "16px",
-              fontFamily: "Lexend, sans-serif",
+              fontFamily: "var(--bodyFont)",
               boxShadow: "0 4px 8px rgba(0, 0, 0, 0.3)",
               transition: "background-color 0.3s, transform 0.3s ease-in-out",
               border: "none",

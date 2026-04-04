@@ -10,28 +10,28 @@ tags:
 
 # Inspiring youthful creativity.
 
-KidsCollab is a creative platform built by students, for students. We write stories, crack puzzles, build quizzes, and collaborate on projects — all in one place.
+KidsCollab is a creative platform made by students, for students. Write stories, crack puzzles, build quizzes, and team up on projects — all in one place. 🎉
 
 *Acknowledgement of Country — we acknowledge the Aboriginal and Torres Strait Islander peoples as the traditional custodians of the land on which we create. We pay our respects to elders past, present and emerging.*
 
 ---
 
-## What's here
+## What's here?
 
-### 📖 KidsCollab
-Fiction, non-fiction, poetry, speeches, diaries and more — a growing library of writing from students across every genre.
+### KidsCollab
+Fiction, non-fiction, poetry, speeches, diaries and more — a growing library of creative writing from students across every genre.
 → [Browse KidsCollab](/KidsCollab)
 
 ### KidsPerplex
-Games and activities invented by school-aged students, including Chrome Music Labs songs and interactive creations.
+Games and activities invented by students including Chrome Music Labs songs, brain teasers and interactive creations.
 → [Browse KidsPerplex](/KidsPerplex)
 
 ### QuizCollab
-Think you know it all? Test yourself with fun quizzes ranging from easy to obscure — try as many times as you like.
+Think you know it all? Test yourself with fun quizzes that range from easy to wildly obscure — try as many times as you like.
 → *Coming soon*
 
 ### ColLabs
-Collaborative projects and DIY articles. Limited content for now, but open for submissions.
+Collaborative projects and DIY articles. We're just getting started, but the door's open for your ideas.
 → [Browse ColLabs](/ColLabs)
 
 ---
