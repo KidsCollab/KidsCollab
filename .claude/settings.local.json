@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx quartz:*)",
+      "Bash(python:*)",
+      "Bash(npx ts-node:*)"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+.story-database-filter {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  border-radius: 12px;
+  background-color: var(--light);
+  border: 1px solid var(--lightgray);
+
+  & .filter-section {
+    margin-bottom: 0.75rem;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    & .filter-label {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--darkgray);
+      margin-bottom: 0.4rem;
+      display: block;
+    }
+
+    & .filter-buttons {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+
+      & .filter-btn {
+        padding: 0.3rem 0.65rem;
+        border-radius: 20px;
+        border: 1px solid var(--lightgray);
+        background-color: var(--white);
+        color: var(--darkgray);
+        font-size: 0.8rem;
+        cursor: pointer;
+        transition: all 0.15s ease;
+        white-space: nowrap;
+
+        &:hover {
+          border-color: var(--secondary);
+          color: var(--secondary);
+        }
+
+        &.active {
+          background-color: var(--secondary);
+          color: white;
+          border-color: var(--secondary);
+        }
+      }
+    }
+  }
+
+  & .search-section {
+    & .filter-search-input {
+      width: 100%;
+      padding: 0.5rem 0.75rem;
+      border-radius: 8px;
+      border: 1px solid var(--lightgray);
+      background-color: var(--white);
+      color: var(--dark);
+      font-size: 0.9rem;
+      outline: none;
+      transition: border-color 0.15s ease;
+
+      &:focus {
+        border-color: var(--secondary);
+      }
+    }
+  }
+
+  & .filter-actions {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 0.5rem;
+
+    & .clear-btn {
+      padding: 0.3rem 0.75rem;
+      border-radius: 8px;
+      border: 1px solid #e74c3c;
+      background-color: transparent;
+      color: #e74c3c;
+      font-size: 0.8rem;
+      cursor: pointer;
+      transition: all 0.15s ease;
+
+      &:hover {
+        background-color: #e74c3c;
+        color: white;
+      }
+    }
+  }
+
+  & .filter-count {
+    font-size: 0.85rem;
+    color: var(--darkgray);
+    margin-top: 0.5rem;
+  }
+}

@@ -1,5 +1,8 @@
 import * as fs from "fs"
 import * as path from "path"
+import { fileURLToPath } from "url"
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
 interface Story {
   title: string
@@ -12,6 +15,7 @@ interface Story {
 
 const CONTENT_DIR = path.join(__dirname, "content", "KidsCollab")
 const OUTPUT_FILE = path.join(CONTENT_DIR, "Story Database.md")
+const DATABASE_PAGE = "KidsCollab/Story Database"
 
 // Map categories to emojis
 const categoryEmojis = {
@@ -46,8 +50,9 @@ function scanStories(dir: string, category: string = "", collection: string = ""
       const newCollection = collection ? `${collection}/${file}` : file
       stories.push(...scanStories(fullPath, category, newCollection))
     } else if (file.endsWith(".md") && file !== "index.md") {
-      const relPath = path.relative(CONTENT_DIR, fullPath).replace(/\\/g, "/")
-      const metaKey = relPath
+      const relPathFromContent = path.relative(CONTENT_DIR, fullPath).replace(/\\/g, "/")
+      const relPath = path.join(DATABASE_PAGE, "..", relPathFromContent).replace(/\\/g, "/")
+      const metaKey = relPathFromContent
 
       let metadata = storyMetadata[metaKey]
       if (!metadata) {
