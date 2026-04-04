@@ -50,7 +50,17 @@ export default ((opts?: Options) => {
               KidsCollab Google Sites
             </a>
           </p>
-          <p><Version /> Updated {new Date().toLocaleDateString()}</p>
+          <p>Updated {new Date().toLocaleDateString()}</p>
+          <div style={{
+            display: "inline-block",
+            backgroundColor: "highlight",
+            color: "#a0b1ca",
+            padding: "4px 14px",
+            borderRadius: "12px",
+            fontSize: "13px",
+            fontFamily: "var(--bodyFont)",
+            marginBottom: "12px",
+          }}><Version /></div>
           <ul>
             {Object.entries(links).map(([text, link]) => (
               <li key={link}>

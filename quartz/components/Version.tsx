@@ -1,3 +1,3 @@
 export default () => () => {
-    return <span>KidsCollab v0.0.5 &beta;</span>
+    return <span>KidsCollab v2.0.0</span>
 }

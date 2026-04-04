@@ -37,7 +37,7 @@ Collaborative projects and DIY articles. We're just getting started, but the doo
 
 ### 📊 Site Statistics
 See how many pages, words, categories, and contributors we have.
-→ [[KidsCollab/stats|View Site Statistics]]
+→ [View Site Statistics](/stats)
 
 ---
 
@@ -48,5 +48,3 @@ We're always open to new submissions. Got a story, poem, report, or project?
 Email us at [kidscollabaus@gmail.com](mailto:kidscollabaus@gmail.com) or use the [submission form](https://docs.google.com/forms/d/e/1FAIpQLSfsDvKfpNUXUs6h3tyTgPMhFLOixsAuV81mPo9T1VH7yqxiQg/viewform?usp=sf_link).
 
 ---
-
-*

@@ -42,6 +42,13 @@ Quartz uses a plugin-based content processing pipeline:
 - `public/` — Build output directory
 - `docs/` — Quartz project documentation (also serves as example content)
 
+## Version Bumping Rule
+
+- The website version is tracked in `quartz/components/Version.tsx`
+- **Every time you patch, add, or configure something** (any code change), bump the PATCH version (e.g., `0.0.6` → `0.0.7`)
+- **Always update this value as part of every code change** — do not forget it
+- Do NOT touch the git branch naming (e.g., `v4`) — version only goes in `Version.tsx`
+
 ### Customization Points
 
 - **`quartz.config.ts`** — Change site identity, theme colors, typography, locale, analytics, and which plugins to enable
