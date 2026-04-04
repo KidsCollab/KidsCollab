@@ -20,7 +20,6 @@ import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
-import FavoriteButton from "./FavoriteButton"
 import StoryDatabaseFilter from "./StoryDatabaseFilter"
 
 export {
@@ -47,5 +46,4 @@ export {
   Breadcrumbs,
   Comments,
   StoryDatabaseFilter,
-  FavoriteButton,
 }
