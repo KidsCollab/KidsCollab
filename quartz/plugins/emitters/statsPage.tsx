@@ -164,7 +164,7 @@ export const StatsPage: QuartzEmitterPlugin = (_userOpts) => {
         const sourcePath = file.data.filePath!
         graph.addEdge(
           sourcePath,
-          joinSegments(_ctx.argv.output, "stats.html") as FilePath,
+          joinSegments(_ctx.argv.output, "KidsCollab/stats.html") as FilePath,
         )
       }
       return graph
@@ -179,10 +179,11 @@ export const StatsPage: QuartzEmitterPlugin = (_userOpts) => {
       // Inject stats into Stats component via opts
       const StatsWithStats = StatsConstructor({ stats })
       const FooterStats = StatsConstructor({ stats, noDisplay: true })
-      const externalResources = pageResources(pathToRoot("stats" as FullSlug), { slug: "stats" } as any, resources)
+      const statsSlug = "KidsCollab/stats" as FullSlug
+      const externalResources = pageResources(pathToRoot(statsSlug), { slug: statsSlug } as any, resources)
       const componentData: QuartzComponentProps & { displayClass?: string } = {
         ctx,
-        fileData: { slug: "stats" } as any,
+        fileData: { slug: statsSlug } as any,
         externalResources,
         cfg,
         children: [],
@@ -192,7 +193,7 @@ export const StatsPage: QuartzEmitterPlugin = (_userOpts) => {
       }
 
       // Build full page HTML using renderPage
-      const fullHtml = renderPage(cfg, "stats" as FullSlug, componentData, {
+      const fullHtml = renderPage(cfg, statsSlug, componentData, {
         head: Head,
         header,
         beforeBody,
