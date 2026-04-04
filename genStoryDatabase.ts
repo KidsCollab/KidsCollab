@@ -143,7 +143,7 @@ Complete collection of all stories organized by category.
     const stories = allStories[category].sort((a, b) => a.title.localeCompare(b.title))
     for (const story of stories) {
       const tagsStr = story.tags.join(" ")
-      const encodedPath = story.path.replace(/ /g, "%20")
+      const encodedPath = `KidsCollab/${story.path}`.replace(/ /g, "%20")
       markdown += `| [${story.title}](${encodedPath}) | ${tagsStr} | ${story.type} |\n`
     }
 
